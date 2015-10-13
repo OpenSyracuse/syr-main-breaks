@@ -1,0 +1,8297 @@
+[
+  {
+    "Latitude":43.050834674,
+    "Longitude":-76.1418345857,
+    "Date":"2012-12-31T00:00:00Z",
+    "Address":"711 East Erie Blvd",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0510857712,
+    "Longitude":-76.1149464405,
+    "Date":"2012-12-30T00:00:00Z",
+    "Address":"Peat St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0239381348,
+    "Longitude":-76.1579960131,
+    "Date":"2012-12-30T00:00:00Z",
+    "Address":"249 Rockland Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":42.9850876186,
+    "Longitude":-76.1423016334,
+    "Date":"2012-12-30T00:00:00Z",
+    "Address":"Gary Ave & Edna Rd",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0311871945,
+    "Longitude":-76.1136228363,
+    "Date":"2012-12-29T00:00:00Z",
+    "Address":"1160 Westmoreland Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0427107103,
+    "Longitude":-76.1421795385,
+    "Date":"2012-12-29T00:00:00Z",
+    "Address":"Almond St. & Monroe St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0239699452,
+    "Longitude":-76.1556507132,
+    "Date":"2012-12-29T00:00:00Z",
+    "Address":"107 Rockland Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0569689795,
+    "Longitude":-76.1675833785,
+    "Date":"2012-12-26T00:00:00Z",
+    "Address":"Sand St. & Spencer St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0465312741,
+    "Longitude":-76.1014720185,
+    "Date":"2012-12-26T00:00:00Z",
+    "Address":"Gorland Ave",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0468299101,
+    "Longitude":-76.1169265234,
+    "Date":"2012-12-25T00:00:00Z",
+    "Address":"321 Allen St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0546110738,
+    "Longitude":-76.0942412622,
+    "Date":"2012-12-22T00:00:00Z",
+    "Address":"East Erie Blvd & Lime St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0546110738,
+    "Longitude":-76.0942412622,
+    "Date":"2012-12-20T00:00:00Z",
+    "Address":"East Erie Blvd & Lime St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0313117992,
+    "Longitude":-76.15540925,
+    "Date":"2012-12-18T00:00:00Z",
+    "Address":"453 West Castle St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0308281265,
+    "Longitude":-76.1082690724,
+    "Date":"2012-12-17T00:00:00Z",
+    "Address":"201-211 Croyden St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0527851532,
+    "Longitude":-76.09392675,
+    "Date":"2012-12-15T00:00:00Z",
+    "Address":"809 Northway St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0426662447,
+    "Longitude":-76.1366437649,
+    "Date":"2012-12-14T00:00:00Z",
+    "Address":"South Crouse aver. & East Adams St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0499867766,
+    "Longitude":-76.0996052045,
+    "Date":"2012-12-14T00:00:00Z",
+    "Address":"225 Delray Ave",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0381207746,
+    "Longitude":-76.0935108094,
+    "Date":"2012-12-13T00:00:00Z",
+    "Address":"322 Kimber Rd",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0649880332,
+    "Longitude":-76.1964561845,
+    "Date":"2012-12-07T00:00:00Z",
+    "Address":"State Fair Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":42.9921760603,
+    "Longitude":-76.1440035456,
+    "Date":"2012-12-04T00:00:00Z",
+    "Address":"5414-5416 South Salina St",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.054374757,
+    "Longitude":-76.1500494638,
+    "Date":"2012-12-04T00:00:00Z",
+    "Address":"425 North State St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0458440565,
+    "Longitude":-76.1523348854,
+    "Date":"2012-12-03T00:00:00Z",
+    "Address":"444 South Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0450695973,
+    "Longitude":-76.1134155733,
+    "Date":"2012-12-03T00:00:00Z",
+    "Address":"Ellis St. & East Genesee St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0417537368,
+    "Longitude":-76.1211136034,
+    "Date":"2012-12-03T00:00:00Z",
+    "Address":"100 Delhi St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0605159836,
+    "Longitude":-76.1412613838,
+    "Date":"2012-12-01T00:00:00Z",
+    "Address":"203 Beecher St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0708664852,
+    "Longitude":-76.1287358856,
+    "Date":"2012-11-29T00:00:00Z",
+    "Address":"481 Brattle Rd",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0283786976,
+    "Longitude":-76.1635441721,
+    "Date":"2012-11-27T00:00:00Z",
+    "Address":"Eastwood Ave & Onondaga Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0463086289,
+    "Longitude":-76.1307071197,
+    "Date":"2012-11-26T00:00:00Z",
+    "Address":"Comstock Ave & Comstock Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0258420443,
+    "Longitude":-76.1703041341,
+    "Date":"2012-11-25T00:00:00Z",
+    "Address":"626 Roberts Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0366278816,
+    "Longitude":-76.1150415946,
+    "Date":"2012-11-20T00:00:00Z",
+    "Address":"427 Fellows Ave\t",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0240806684,
+    "Longitude":-76.1555843676,
+    "Date":"2012-11-09T00:00:00Z",
+    "Address":"Rockland Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0423318211,
+    "Longitude":-76.1885481961,
+    "Date":"2012-11-01T00:00:00Z",
+    "Address":"Burnet Park Picnic Area",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0423318211,
+    "Longitude":-76.1885481961,
+    "Date":"2012-10-31T00:00:00Z",
+    "Address":"Burnet Park Picnic Area",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.038762696,
+    "Longitude":-76.1674633465,
+    "Date":"2012-10-29T00:00:00Z",
+    "Address":"207 Sabine St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0492939949,
+    "Longitude":-76.1342836648,
+    "Date":"2012-10-26T00:00:00Z",
+    "Address":"1012 East Washington St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0374713175,
+    "Longitude":-76.1696777175,
+    "Date":"2012-10-25T00:00:00Z",
+    "Address":"505 Delaware St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0544513302,
+    "Longitude":-76.095240146,
+    "Date":"2012-10-24T00:00:00Z",
+    "Address":"2760 East Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0385109158,
+    "Longitude":-76.1299175647,
+    "Date":"2012-10-23T00:00:00Z",
+    "Address":"727 Comstock Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0002679494,
+    "Longitude":-76.151833811,
+    "Date":"2012-10-21T00:00:00Z",
+    "Address":"101 MacDougall Pl",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0087791888,
+    "Longitude":-76.1427886013,
+    "Date":"2012-10-20T00:00:00Z",
+    "Address":"105 Dawes Rd",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0442120992,
+    "Longitude":-76.1450971084,
+    "Date":"2012-10-19T00:00:00Z",
+    "Address":"500 Harrison St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0486728835,
+    "Longitude":-76.1508045013,
+    "Date":"2012-10-19T00:00:00Z",
+    "Address":"East Fayette St. & Warren St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0323898362,
+    "Longitude":-76.1858401345,
+    "Date":"2012-10-17T00:00:00Z",
+    "Address":"1933-1935 Bellevue Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.002871857,
+    "Longitude":-76.133435534,
+    "Date":"2012-10-15T00:00:00Z",
+    "Address":"509 East Seneca Tpk",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0423887583,
+    "Longitude":-76.1540256206,
+    "Date":"2012-10-15T00:00:00Z",
+    "Address":"200 Oneida St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0112485051,
+    "Longitude":-76.1320612687,
+    "Date":"2012-10-13T00:00:00Z",
+    "Address":"153 Ainsely Dr.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0415328209,
+    "Longitude":-76.1067690202,
+    "Date":"2012-10-12T00:00:00Z",
+    "Address":"Scottholm Blvd & Bradford Pkwy",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0641104251,
+    "Longitude":-76.1286282228,
+    "Date":"2012-10-12T00:00:00Z",
+    "Address":"225 Brattle Rd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0644306389,
+    "Longitude":-76.1286043807,
+    "Date":"2012-10-11T00:00:00Z",
+    "Address":"233 Brattle Rd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0349763804,
+    "Longitude":-76.1045222202,
+    "Date":"2012-10-10T00:00:00Z",
+    "Address":"1807 Euclid Ave",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0463086289,
+    "Longitude":-76.1307071197,
+    "Date":"2012-10-10T00:00:00Z",
+    "Address":"Comstock Ave & Comstock Pl",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0487467368,
+    "Longitude":-76.152262607,
+    "Date":"2012-10-09T00:00:00Z",
+    "Address":"West Fayette St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.047106068,
+    "Longitude":-76.1518744503,
+    "Date":"2012-10-08T00:00:00Z",
+    "Address":"115 East Jefferson St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0458046253,
+    "Longitude":-76.1709572347,
+    "Date":"2012-10-03T00:00:00Z",
+    "Address":"West Fayette St. & South Geddes St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0404032463,
+    "Longitude":-76.1746588663,
+    "Date":"2012-09-29T00:00:00Z",
+    "Address":"Amy St. & Delaware St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.033121742,
+    "Longitude":-76.162317348,
+    "Date":"2012-09-21T00:00:00Z",
+    "Address":"211 Palmer Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0112651519,
+    "Longitude":-76.1311262411,
+    "Date":"2012-09-18T00:00:00Z",
+    "Address":"201 Ainsley Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0459429923,
+    "Longitude":-76.1801799419,
+    "Date":"2012-09-13T00:00:00Z",
+    "Address":"South Lowell St. & Whitter Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0502098317,
+    "Longitude":-76.1730215759,
+    "Date":"2012-09-12T00:00:00Z",
+    "Address":"Richmond Ave & Wall St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0131178975,
+    "Longitude":-76.1350856648,
+    "Date":"2012-09-11T00:00:00Z",
+    "Address":"East Brighton Ave & Newbury Hollow Ln",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0364824892,
+    "Longitude":-76.3082588731,
+    "Date":"2012-09-05T00:00:00Z",
+    "Address":"33 South St. Camillus NY",
+    "Zip":13031
+  },
+  {
+    "Latitude":43.034947032,
+    "Longitude":-76.171409697,
+    "Date":"2012-09-05T00:00:00Z",
+    "Address":"231 Elliot St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0364824892,
+    "Longitude":-76.3082588731,
+    "Date":"2012-08-30T00:00:00Z",
+    "Address":"33 South St. Camillus NY",
+    "Zip":13031
+  },
+  {
+    "Latitude":43.0359141224,
+    "Longitude":-76.1740844346,
+    "Date":"2012-08-29T00:00:00Z",
+    "Address":"1204 South Geddes St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0459429923,
+    "Longitude":-76.1801799419,
+    "Date":"2012-08-29T00:00:00Z",
+    "Address":"South Lowell St. & Whitter Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0713931343,
+    "Longitude":-76.1002161841,
+    "Date":"2012-08-28T00:00:00Z",
+    "Address":"217 Lamson St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0426995058,
+    "Longitude":-76.1387689854,
+    "Date":"2012-08-22T00:00:00Z",
+    "Address":"Adams St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0522190126,
+    "Longitude":-76.1673768671,
+    "Date":"2012-08-21T00:00:00Z",
+    "Address":"626 Park Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0463639169,
+    "Longitude":-76.159999672,
+    "Date":"2012-08-21T00:00:00Z",
+    "Address":"Wyoming St. & Otisco St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0680476821,
+    "Longitude":-76.11635527,
+    "Date":"2012-08-21T00:00:00Z",
+    "Address":"2208 James St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.038354014,
+    "Longitude":-76.1560584223,
+    "Date":"2012-08-19T00:00:00Z",
+    "Address":"Taylor St. & Midland Ave",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0531986435,
+    "Longitude":-76.1363338876,
+    "Date":"2012-08-16T00:00:00Z",
+    "Address":"500 Hawley Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0551356325,
+    "Longitude":-76.0872960965,
+    "Date":"2012-08-15T00:00:00Z",
+    "Address":"102 Headson Dr.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0537518829,
+    "Longitude":-76.0907645559,
+    "Date":"2012-08-14T00:00:00Z",
+    "Address":"Smith St. & Polk St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0661078551,
+    "Longitude":-76.1620053277,
+    "Date":"2012-08-14T00:00:00Z",
+    "Address":"Sunset Ave & Turtle St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0469751956,
+    "Longitude":-76.1371969584,
+    "Date":"2012-08-14T00:00:00Z",
+    "Address":"945 East Genesee St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0576107249,
+    "Longitude":-76.1637298291,
+    "Date":"2012-08-12T00:00:00Z",
+    "Address":"412 Spencer St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0453896698,
+    "Longitude":-76.1284887179,
+    "Date":"2012-08-12T00:00:00Z",
+    "Address":"1215 Madison St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0645554273,
+    "Longitude":-76.1542467314,
+    "Date":"2012-08-11T00:00:00Z",
+    "Address":"249 Lilac St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0630571604,
+    "Longitude":-76.1109370644,
+    "Date":"2012-08-11T00:00:00Z",
+    "Address":"334 Forest Hill Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0468254889,
+    "Longitude":-76.1147098137,
+    "Date":"2012-08-11T00:00:00Z",
+    "Address":"418-420 Westmoreland Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0469100798,
+    "Longitude":-76.0932127101,
+    "Date":"2012-08-11T00:00:00Z",
+    "Address":"117 Phillips Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.057605857,
+    "Longitude":-76.1825647195,
+    "Date":"2012-08-10T00:00:00Z",
+    "Address":"1020 West Hiawatha Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0659266767,
+    "Longitude":-76.1614718682,
+    "Date":"2012-08-09T00:00:00Z",
+    "Address":"318 Sunset Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.038976784,
+    "Longitude":-76.1515439279,
+    "Date":"2012-08-09T00:00:00Z",
+    "Address":"South Clinton St. & Taylor St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0569327223,
+    "Longitude":-76.150151808,
+    "Date":"2012-08-08T00:00:00Z",
+    "Address":"400 Prospect Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0570723566,
+    "Longitude":-76.1502656905,
+    "Date":"2012-08-08T00:00:00Z",
+    "Address":"412 Prospect Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0205830971,
+    "Longitude":-76.1511776674,
+    "Date":"2012-08-07T00:00:00Z",
+    "Address":"309 Hope Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0482656249,
+    "Longitude":-76.1521549271,
+    "Date":"2012-08-06T00:00:00Z",
+    "Address":"325 South Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.065824295,
+    "Longitude":-76.1319683634,
+    "Date":"2012-08-06T00:00:00Z",
+    "Address":"404 Sedgwick Dr.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0547953433,
+    "Longitude":-76.1512361258,
+    "Date":"2012-08-04T00:00:00Z",
+    "Address":"Pearl St. & East Belden Dr.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0752047126,
+    "Longitude":-76.1633005895,
+    "Date":"2012-08-03T00:00:00Z",
+    "Address":"Tex Simone Dr",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0236063024,
+    "Longitude":-76.1483298394,
+    "Date":"2012-07-29T00:00:00Z",
+    "Address":"135 Fage Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0631870299,
+    "Longitude":-76.1109489472,
+    "Date":"2012-07-28T00:00:00Z",
+    "Address":"328 Forest Hill Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0415431106,
+    "Longitude":-76.1344001476,
+    "Date":"2012-07-27T00:00:00Z",
+    "Address":"200 Marshall St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0495813665,
+    "Longitude":-76.148374283,
+    "Date":"2012-07-26T00:00:00Z",
+    "Address":"333 East Washington St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0215054058,
+    "Longitude":-76.1743595704,
+    "Date":"2012-07-26T00:00:00Z",
+    "Address":"Arden Dr. & South Geddes St.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0030682303,
+    "Longitude":-76.1275823028,
+    "Date":"2012-07-25T00:00:00Z",
+    "Address":"Intrepaid Ln",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0488923748,
+    "Longitude":-76.1743054355,
+    "Date":"2012-07-23T00:00:00Z",
+    "Address":"Liberty St (Dead End)",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.059584844,
+    "Longitude":-76.1554609373,
+    "Date":"2012-07-23T00:00:00Z",
+    "Address":"West Division St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0775326148,
+    "Longitude":-76.161493053,
+    "Date":"2012-07-23T00:00:00Z",
+    "Address":"Grant Blvd & Hiawatha Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0251531384,
+    "Longitude":-76.1205740927,
+    "Date":"2012-07-22T00:00:00Z",
+    "Address":"Buckingham Ave & Meadowbrook Dr.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.077912307,
+    "Longitude":-76.1470719218,
+    "Date":"2012-07-20T00:00:00Z",
+    "Address":"1416 Court St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.025960368,
+    "Longitude":-76.1207260701,
+    "Date":"2012-07-19T00:00:00Z",
+    "Address":"464 Buckingham Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0430462974,
+    "Longitude":-76.1109984679,
+    "Date":"2012-07-18T00:00:00Z",
+    "Address":"241 Scottholm Ter.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0181689728,
+    "Longitude":-76.1302096683,
+    "Date":"2012-07-16T00:00:00Z",
+    "Address":"900 Jamesville Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0506541991,
+    "Longitude":-76.1363940419,
+    "Date":"2012-07-12T00:00:00Z",
+    "Address":"1000 Erie Blvd",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0103559679,
+    "Longitude":-76.1505121954,
+    "Date":"2012-07-10T00:00:00Z",
+    "Address":"621 Ballantyne Rd",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0569080116,
+    "Longitude":-76.1659633655,
+    "Date":"2012-07-09T00:00:00Z",
+    "Address":"500 Spencer St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0512845736,
+    "Longitude":-76.1039711334,
+    "Date":"2012-06-28T00:00:00Z",
+    "Address":"300 Seeley Rd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0494879904,
+    "Longitude":-76.1397818559,
+    "Date":"2012-06-25T00:00:00Z",
+    "Address":"811 East Washington St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0042600885,
+    "Longitude":-76.1576663029,
+    "Date":"2012-06-25T00:00:00Z",
+    "Address":"410 Englewood Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0333450107,
+    "Longitude":-76.1552037845,
+    "Date":"2012-06-20T00:00:00Z",
+    "Address":"Hovey St. & Midland Ave",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0552813402,
+    "Longitude":-76.1967431574,
+    "Date":"2012-06-19T00:00:00Z",
+    "Address":"Essex St. & Avery Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0402912396,
+    "Longitude":-76.0856847831,
+    "Date":"2012-06-18T00:00:00Z",
+    "Address":"516 Hillsboro Pkwy",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0554199032,
+    "Longitude":-76.1473689638,
+    "Date":"2012-06-17T00:00:00Z",
+    "Address":"518 North Townsend St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0509176241,
+    "Longitude":-76.1521128184,
+    "Date":"2012-06-15T00:00:00Z",
+    "Address":"North Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0740439592,
+    "Longitude":-76.1503595397,
+    "Date":"2012-06-07T00:00:00Z",
+    "Address":"2527-2529 Grant Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0338859373,
+    "Longitude":-76.1404260665,
+    "Date":"2012-06-01T00:00:00Z",
+    "Address":"156-162 Oakland St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0119436243,
+    "Longitude":-76.1578843531,
+    "Date":"2012-05-30T00:00:00Z",
+    "Address":"100 Marvin Rd",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0564436312,
+    "Longitude":-76.1624142684,
+    "Date":"2012-05-14T00:00:00Z",
+    "Address":"308 Maltbie St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0482857214,
+    "Longitude":-76.1159172323,
+    "Date":"2012-05-10T00:00:00Z",
+    "Address":"1951 East Fayette St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0405204552,
+    "Longitude":-76.1476467712,
+    "Date":"2012-05-07T00:00:00Z",
+    "Address":"1000 South State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0433282578,
+    "Longitude":-76.0887249141,
+    "Date":"2012-05-07T00:00:00Z",
+    "Address":"316 Carlton Dr.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0594659666,
+    "Longitude":-76.1133708821,
+    "Date":"2012-05-07T00:00:00Z",
+    "Address":"474 Hickok Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0659266767,
+    "Longitude":-76.1614718682,
+    "Date":"2012-05-04T00:00:00Z",
+    "Address":"318 Sunset Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0388937421,
+    "Longitude":-76.1077814997,
+    "Date":"2012-04-27T00:00:00Z",
+    "Address":"306 Scott Ave",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0648107366,
+    "Longitude":-76.0898056516,
+    "Date":"2012-04-25T00:00:00Z",
+    "Address":"1650 Glencove Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0415161625,
+    "Longitude":-76.1066861618,
+    "Date":"2012-04-19T00:00:00Z",
+    "Address":"109 Bradford Pkwy",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0405486216,
+    "Longitude":-76.1063495639,
+    "Date":"2012-04-19T00:00:00Z",
+    "Address":"Bradford Pkwy & Meadowbrook Dr.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0511071679,
+    "Longitude":-76.1754554321,
+    "Date":"2012-04-17T00:00:00Z",
+    "Address":"205/207 Apple St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0405486216,
+    "Longitude":-76.1063495639,
+    "Date":"2012-04-17T00:00:00Z",
+    "Address":"Bradford Pkwy & Meadowbrook Dr.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0710145899,
+    "Longitude":-76.1026578197,
+    "Date":"2012-04-16T00:00:00Z",
+    "Address":"921 Tyson Pl.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0547371118,
+    "Longitude":-76.1964660715,
+    "Date":"2012-04-14T00:00:00Z",
+    "Address":"929 Avery Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0020135773,
+    "Longitude":-76.1294090599,
+    "Date":"2012-04-14T00:00:00Z",
+    "Address":"East Seneca Tpk & East Brighton Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0483285963,
+    "Longitude":-76.1195261006,
+    "Date":"2012-04-05T00:00:00Z",
+    "Address":"1813 East Fayette St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0551498811,
+    "Longitude":-76.0873861083,
+    "Date":"2012-04-04T00:00:00Z",
+    "Address":"Headson Dr.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0032105246,
+    "Longitude":-76.1300905378,
+    "Date":"2012-03-30T00:00:00Z",
+    "Address":"944 East Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0334875859,
+    "Longitude":-76.1469773256,
+    "Date":"2012-03-28T00:00:00Z",
+    "Address":"East Castle St. & South State St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0483299203,
+    "Longitude":-76.1196344431,
+    "Date":"2012-03-28T00:00:00Z",
+    "Address":"1809 East Fayette St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0501249895,
+    "Longitude":-76.1506522524,
+    "Date":"2012-03-27T00:00:00Z",
+    "Address":"205 East Genesee St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.005341355,
+    "Longitude":-76.1431293244,
+    "Date":"2012-03-27T00:00:00Z",
+    "Address":"East Glen Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0536914016,
+    "Longitude":-76.145649004,
+    "Date":"2012-03-22T00:00:00Z",
+    "Address":"518 James St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0504834193,
+    "Longitude":-76.1389439819,
+    "Date":"2012-03-20T00:00:00Z",
+    "Address":"East Washington St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0427702038,
+    "Longitude":-76.09206238,
+    "Date":"2012-03-20T00:00:00Z",
+    "Address":"201 East Genesee Pkwy",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0474631155,
+    "Longitude":-76.1544204028,
+    "Date":"2012-03-18T00:00:00Z",
+    "Address":"238 West Jefferson Ave.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.020520732,
+    "Longitude":-76.1284300813,
+    "Date":"2012-03-15T00:00:00Z",
+    "Address":"1302 Comstock Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0112263852,
+    "Longitude":-76.126628588,
+    "Date":"2012-03-15T00:00:00Z",
+    "Address":"336 Ainsley Dr.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0512549962,
+    "Longitude":-76.1793684688,
+    "Date":"2012-03-15T00:00:00Z",
+    "Address":"Lakeview Ave. & Apple St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0325939822,
+    "Longitude":-76.144726317,
+    "Date":"2012-03-11T00:00:00Z",
+    "Address":"552 Oakwood Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0182280472,
+    "Longitude":-76.130083613,
+    "Date":"2012-03-07T00:00:00Z",
+    "Address":"901 Jamesville Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0273006559,
+    "Longitude":-76.1219795926,
+    "Date":"2012-03-06T00:00:00Z",
+    "Address":"1347 Lancaster Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0182280472,
+    "Longitude":-76.130083613,
+    "Date":"2012-03-05T00:00:00Z",
+    "Address":"901 Jamesville Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0009434906,
+    "Longitude":-76.159124983,
+    "Date":"2012-03-03T00:00:00Z",
+    "Address":"173 Hopper Rd.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0230401116,
+    "Longitude":-76.1203290551,
+    "Date":"2012-03-02T00:00:00Z",
+    "Address":"555 Buckingham Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0111085419,
+    "Longitude":-76.1338002772,
+    "Date":"2012-03-02T00:00:00Z",
+    "Address":"Ainsley Dr",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0030509434,
+    "Longitude":-76.1298492835,
+    "Date":"2012-03-01T00:00:00Z",
+    "Address":"971 East Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0029413245,
+    "Longitude":-76.1297951237,
+    "Date":"2012-02-25T00:00:00Z",
+    "Address":"985 E. Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0257221307,
+    "Longitude":-76.1335280818,
+    "Date":"2012-02-20T00:00:00Z",
+    "Address":"East Colvin St & Hughes Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0663112855,
+    "Longitude":-76.1259677183,
+    "Date":"2012-02-10T00:00:00Z",
+    "Address":"133 Chatham Rd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0796201256,
+    "Longitude":-76.1531525463,
+    "Date":"2012-02-10T00:00:00Z",
+    "Address":"100 Bellshire Ln.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0112263852,
+    "Longitude":-76.126628588,
+    "Date":"2012-02-10T00:00:00Z",
+    "Address":"336 Ainsley Dr.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0502710239,
+    "Longitude":-76.1342516064,
+    "Date":"2012-02-08T00:00:00Z",
+    "Address":"University Ave. & East Water St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0265128675,
+    "Longitude":-76.1624825568,
+    "Date":"2012-02-06T00:00:00Z",
+    "Address":"115-117 Parkview Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0733914701,
+    "Longitude":-76.1627259183,
+    "Date":"2012-02-05T00:00:00Z",
+    "Address":"1604 Spring St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0255316249,
+    "Longitude":-76.1452890558,
+    "Date":"2012-02-05T00:00:00Z",
+    "Address":"South Salina St. & East Colvin St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0537896177,
+    "Longitude":-76.1736822052,
+    "Date":"2012-02-05T00:00:00Z",
+    "Address":"400 Liberty St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0209356091,
+    "Longitude":-76.1557219637,
+    "Date":"2012-02-03T00:00:00Z",
+    "Address":"Hunt Ave & Elmhurst Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0272498218,
+    "Longitude":-76.1728231871,
+    "Date":"2012-02-01T00:00:00Z",
+    "Address":"Alanson Rd.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0666949878,
+    "Longitude":-76.1573579266,
+    "Date":"2012-02-01T00:00:00Z",
+    "Address":"North Alvord St. & Danforth St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0673710237,
+    "Longitude":-76.1271820085,
+    "Date":"2012-01-30T00:00:00Z",
+    "Address":"Rugby Rd. & Durston Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0716978081,
+    "Longitude":-76.1312336664,
+    "Date":"2012-01-29T00:00:00Z",
+    "Address":"223 Woodlawn Ter.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0501930108,
+    "Longitude":-76.1752502501,
+    "Date":"2012-01-27T00:00:00Z",
+    "Address":"547-549 Richmond Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0541715142,
+    "Longitude":-76.1341127387,
+    "Date":"2012-01-25T00:00:00Z",
+    "Address":"621 Hawley Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0694191264,
+    "Longitude":-76.0939964112,
+    "Date":"2012-01-23T00:00:00Z",
+    "Address":"James St. & Ridgewood Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0653879091,
+    "Longitude":-76.1539386349,
+    "Date":"2012-01-22T00:00:00Z",
+    "Address":"746 North Alvord St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0702036063,
+    "Longitude":-76.1483158228,
+    "Date":"2012-01-22T00:00:00Z",
+    "Address":"Pond St. & Griffith St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":42.9962397626,
+    "Longitude":-76.1378496778,
+    "Date":"2012-01-19T00:00:00Z",
+    "Address":"Cheltenham Rd. & Sunrise Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":42.9936795188,
+    "Longitude":-76.1365003418,
+    "Date":"2012-01-18T00:00:00Z",
+    "Address":"132 Lynn Ct.",
+    "Zip":13205
+  },
+  {
+    "Latitude":42.9962397626,
+    "Longitude":-76.1378496778,
+    "Date":"2012-01-14T00:00:00Z",
+    "Address":"Cheltenham Rd. & Sunrise Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0778737857,
+    "Longitude":-76.1380643497,
+    "Date":"2012-01-12T00:00:00Z",
+    "Address":"Harding St. & Huntley St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0672423867,
+    "Longitude":-76.1461226704,
+    "Date":"2012-01-09T00:00:00Z",
+    "Address":"East Division St. & Gilbert Ave.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0535726929,
+    "Longitude":-76.0941491104,
+    "Date":"2012-01-06T00:00:00Z",
+    "Address":"Polk St. & Lime St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0355005021,
+    "Longitude":-76.1471631898,
+    "Date":"2012-01-04T00:00:00Z",
+    "Address":"East Raynor Ave. & South State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0701780468,
+    "Longitude":-76.1261815922,
+    "Date":"2012-01-04T00:00:00Z",
+    "Address":"244 Wheaton Rd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0317050327,
+    "Longitude":-76.1586958876,
+    "Date":"2012-01-03T00:00:00Z",
+    "Address":"709 South Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0483834919,
+    "Longitude":-76.1233180685,
+    "Date":"2011-12-30T00:00:00Z",
+    "Address":"1605 East Fayette St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0635343969,
+    "Longitude":-76.1533852693,
+    "Date":"2011-12-26T00:00:00Z",
+    "Address":"121 Pond St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0637498009,
+    "Longitude":-76.111000436,
+    "Date":"2011-12-24T00:00:00Z",
+    "Address":"302 Forest Hill Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0404998226,
+    "Longitude":-76.1328728658,
+    "Date":"2011-12-20T00:00:00Z",
+    "Address":"Waverly Ave. & Walnut Pl",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0632199255,
+    "Longitude":-76.1121815763,
+    "Date":"2011-12-15T00:00:00Z",
+    "Address":"325 Stafford Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0672204332,
+    "Longitude":-76.1513824493,
+    "Date":"2011-12-15T00:00:00Z",
+    "Address":"609 Carbon St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0686798657,
+    "Longitude":-76.1104579141,
+    "Date":"2011-12-14T00:00:00Z",
+    "Address":"100 Lillian Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.062863425,
+    "Longitude":-76.1154167687,
+    "Date":"2011-12-13T00:00:00Z",
+    "Address":"240 Shotwell Pk.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0458046783,
+    "Longitude":-76.1571986648,
+    "Date":"2011-12-12T00:00:00Z",
+    "Address":"Tully St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0650411247,
+    "Longitude":-76.1565679143,
+    "Date":"2011-12-03T00:00:00Z",
+    "Address":"309 Kirkpatrick St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0498899524,
+    "Longitude":-76.1610154815,
+    "Date":"2011-12-02T00:00:00Z",
+    "Address":"515 West Erie Blvd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0534398292,
+    "Longitude":-76.1276576762,
+    "Date":"2011-12-02T00:00:00Z",
+    "Address":"325 North Beech St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.037093972,
+    "Longitude":-76.1571156836,
+    "Date":"2011-12-01T00:00:00Z",
+    "Address":"175 Lincoln Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0422940191,
+    "Longitude":-76.1620828611,
+    "Date":"2011-11-29T00:00:00Z",
+    "Address":"347 Seymour St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0698453611,
+    "Longitude":-76.1135036038,
+    "Date":"2011-11-22T00:00:00Z",
+    "Address":"North Ave. & Arnett St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0698453611,
+    "Longitude":-76.1135036038,
+    "Date":"2011-11-21T00:00:00Z",
+    "Address":"North Ave. & Arnett St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0744549067,
+    "Longitude":-76.1342392673,
+    "Date":"2011-11-15T00:00:00Z",
+    "Address":"257 Pleasant View Ave.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.06348642,
+    "Longitude":-76.155381222,
+    "Date":"2011-11-09T00:00:00Z",
+    "Address":"940 North Salina St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0547953433,
+    "Longitude":-76.1512361258,
+    "Date":"2011-11-08T00:00:00Z",
+    "Address":"Pearl St. & East Belden Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0427580993,
+    "Longitude":-76.1501740624,
+    "Date":"2011-11-07T00:00:00Z",
+    "Address":"East Adams St. & Harrison Pl.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0412252077,
+    "Longitude":-76.0824241414,
+    "Date":"2011-11-05T00:00:00Z",
+    "Address":"Manor Dr. & Barrington Rd.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0796559485,
+    "Longitude":-76.1603582987,
+    "Date":"2011-11-01T00:00:00Z",
+    "Address":"825 E. Hiawatha Blvd.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0796559485,
+    "Longitude":-76.1603582987,
+    "Date":"2011-10-31T00:00:00Z",
+    "Address":"825 E. Hiawatha Blvd.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0386005089,
+    "Longitude":-76.1105004516,
+    "Date":"2011-10-28T00:00:00Z",
+    "Address":"Scottholm Ter. & Sunnyside Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0362368504,
+    "Longitude":-76.1126553993,
+    "Date":"2011-10-26T00:00:00Z",
+    "Address":"539 Cumberland Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0653692204,
+    "Longitude":-76.0893203366,
+    "Date":"2011-10-25T00:00:00Z",
+    "Address":"128 Conklin Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0635922624,
+    "Longitude":-76.1572546424,
+    "Date":"2011-10-22T00:00:00Z",
+    "Address":"Union Pl.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0008221708,
+    "Longitude":-76.1301715503,
+    "Date":"2011-10-20T00:00:00Z",
+    "Address":"124 LaFayette Rd.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0355767726,
+    "Longitude":-76.1453885104,
+    "Date":"2011-10-18T00:00:00Z",
+    "Address":"Truth Ter. & Oakwood Ave.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0647952561,
+    "Longitude":-76.0903587347,
+    "Date":"2011-10-14T00:00:00Z",
+    "Address":"301 Boston St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0378379027,
+    "Longitude":-76.1499034779,
+    "Date":"2011-10-05T00:00:00Z",
+    "Address":"1000 South Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0339907898,
+    "Longitude":-76.1520104665,
+    "Date":"2011-10-02T00:00:00Z",
+    "Address":"100 Oxford Rd.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.046821382,
+    "Longitude":-76.1351982267,
+    "Date":"2011-09-28T00:00:00Z",
+    "Address":"1060 East Genesee St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0521141768,
+    "Longitude":-76.1325171731,
+    "Date":"2011-09-28T00:00:00Z",
+    "Address":"Lodi St. & Burnet Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0423318211,
+    "Longitude":-76.1885481961,
+    "Date":"2011-09-25T00:00:00Z",
+    "Address":"Burnet Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0353575428,
+    "Longitude":-76.1783414366,
+    "Date":"2011-09-22T00:00:00Z",
+    "Address":"319 Lydell St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0501994073,
+    "Longitude":-76.1180767827,
+    "Date":"2011-09-21T00:00:00Z",
+    "Address":"1807 West Erie Blvd.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0400594209,
+    "Longitude":-76.1604043864,
+    "Date":"2011-09-14T00:00:00Z",
+    "Address":"306 Slocum Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0781155464,
+    "Longitude":-76.1669524288,
+    "Date":"2011-09-13T00:00:00Z",
+    "Address":"Alliance Stadium",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.028208132,
+    "Longitude":-76.1525759587,
+    "Date":"2011-09-12T00:00:00Z",
+    "Address":"315 Kirk Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0384229425,
+    "Longitude":-76.1444899603,
+    "Date":"2011-09-12T00:00:00Z",
+    "Address":"461 Britte Rd.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0599588673,
+    "Longitude":-76.197443541,
+    "Date":"2011-09-07T00:00:00Z",
+    "Address":"1318 Willis Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":1,
+    "Longitude":1,
+    "Date":"2011-09-07T00:00:00Z",
+    "Address":"6801 Voorhies Ln.",
+    "Zip":null
+  },
+  {
+    "Latitude":43.0525746717,
+    "Longitude":-76.1332541205,
+    "Date":"2011-09-04T00:00:00Z",
+    "Address":"310 Lodi St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0365920149,
+    "Longitude":-76.0988759845,
+    "Date":"2011-09-03T00:00:00Z",
+    "Address":"438 Brookford Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0511071679,
+    "Longitude":-76.1754554321,
+    "Date":"2011-09-02T00:00:00Z",
+    "Address":"205 Apple St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0523347867,
+    "Longitude":-76.1454088598,
+    "Date":"2011-09-02T00:00:00Z",
+    "Address":"207 Burnet Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0288292401,
+    "Longitude":-76.1787674089,
+    "Date":"2011-09-01T00:00:00Z",
+    "Address":"Woodland Reservoir",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0008506495,
+    "Longitude":-76.1437249319,
+    "Date":"2011-09-01T00:00:00Z",
+    "Address":"122 West Seneca Tpk.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0532661856,
+    "Longitude":-76.1414129561,
+    "Date":"2011-08-27T00:00:00Z",
+    "Address":"320 Hawley Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0778164199,
+    "Longitude":-76.1417457782,
+    "Date":"2011-08-24T00:00:00Z",
+    "Address":"319 Hillside St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0778164199,
+    "Longitude":-76.1417457782,
+    "Date":"2011-08-22T00:00:00Z",
+    "Address":"319 Hillside St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0531638667,
+    "Longitude":-76.1302444765,
+    "Date":"2011-08-19T00:00:00Z",
+    "Address":"333 Elm St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0531638667,
+    "Longitude":-76.1302444765,
+    "Date":"2011-08-19T00:00:00Z",
+    "Address":"333/335 Elm St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0544000646,
+    "Longitude":-76.0957310238,
+    "Date":"2011-08-18T00:00:00Z",
+    "Address":"2740 East Erie Blvd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0586487842,
+    "Longitude":-76.1809796827,
+    "Date":"2011-08-10T00:00:00Z",
+    "Address":"935 East Hiawatha Blvd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.041774149,
+    "Longitude":-76.1347569611,
+    "Date":"2011-08-07T00:00:00Z",
+    "Address":"750 University Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0481472203,
+    "Longitude":-76.171694971,
+    "Date":"2011-08-06T00:00:00Z",
+    "Address":"836 West Erie Blvd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0500396473,
+    "Longitude":-76.1662138162,
+    "Date":"2011-08-04T00:00:00Z",
+    "Address":"VanRensselaer St. & Richmond Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.052864661,
+    "Longitude":-76.1933063808,
+    "Date":"2011-08-04T00:00:00Z",
+    "Address":"Herkimer St. & Charlotte St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0506783076,
+    "Longitude":-76.134240217,
+    "Date":"2011-08-02T00:00:00Z",
+    "Address":"East Erie Blvd & University Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0536706231,
+    "Longitude":-76.0933387544,
+    "Date":"2011-07-28T00:00:00Z",
+    "Address":"123 Polk St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0549788905,
+    "Longitude":-76.0863059754,
+    "Date":"2011-07-26T00:00:00Z",
+    "Address":"124 Headson Dr.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0382368699,
+    "Longitude":-76.1473686659,
+    "Date":"2011-07-26T00:00:00Z",
+    "Address":"Burt St. & South State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0563109217,
+    "Longitude":-76.1676811897,
+    "Date":"2011-07-25T00:00:00Z",
+    "Address":"313 Sand St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0025121558,
+    "Longitude":-76.1345191516,
+    "Date":"2011-07-23T00:00:00Z",
+    "Address":"450 East Seneca Tpke.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0238441943,
+    "Longitude":-76.128658912,
+    "Date":"2011-07-21T00:00:00Z",
+    "Address":"East Colvin St. & Comstock Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0756345688,
+    "Longitude":-76.1533814748,
+    "Date":"2011-07-20T00:00:00Z",
+    "Address":"132 Brace St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.038374843,
+    "Longitude":-76.1810632279,
+    "Date":"2011-07-19T00:00:00Z",
+    "Address":"601 Grand  Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0574828469,
+    "Longitude":-76.1958079448,
+    "Date":"2011-07-18T00:00:00Z",
+    "Address":"Chemung St. & Willis Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0663362479,
+    "Longitude":-76.1228432729,
+    "Date":"2011-07-17T00:00:00Z",
+    "Address":"1345 Teal Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0248461139,
+    "Longitude":-76.112217196,
+    "Date":"2011-07-14T00:00:00Z",
+    "Address":"1143 Cumberland Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0329927713,
+    "Longitude":-76.1487671254,
+    "Date":"2011-07-14T00:00:00Z",
+    "Address":"100 East Castle St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0872599642,
+    "Longitude":-76.1639257925,
+    "Date":"2011-07-13T00:00:00Z",
+    "Address":"7th North Street & Terminal Rd.",
+    "Zip":13088
+  },
+  {
+    "Latitude":43.0551075342,
+    "Longitude":-76.1156447185,
+    "Date":"2011-07-13T00:00:00Z",
+    "Address":"Peat St. & Riegal St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0237403644,
+    "Longitude":-76.1285705386,
+    "Date":"2011-07-12T00:00:00Z",
+    "Address":"1300 East Colvin St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0551075342,
+    "Longitude":-76.1156447185,
+    "Date":"2011-07-12T00:00:00Z",
+    "Address":"Riegel St. & Peat St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0800318838,
+    "Longitude":-76.1536365739,
+    "Date":"2011-07-12T00:00:00Z",
+    "Address":"Lemoyne Ave & 7th North St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0578989263,
+    "Longitude":-76.1985380294,
+    "Date":"2011-07-10T00:00:00Z",
+    "Address":"1130 Avery Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0789317531,
+    "Longitude":-76.1337165014,
+    "Date":"2011-07-08T00:00:00Z",
+    "Address":"221 Rivoli Ave.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0551075342,
+    "Longitude":-76.1156447185,
+    "Date":"2011-07-05T00:00:00Z",
+    "Address":"Riegel St. & Peat St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0358667896,
+    "Longitude":-76.1496033264,
+    "Date":"2011-07-01T00:00:00Z",
+    "Address":"1150 South Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0486647323,
+    "Longitude":-76.1947294811,
+    "Date":"2011-06-30T00:00:00Z",
+    "Address":"501 Myrtle St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":42.9871271661,
+    "Longitude":-76.1419188446,
+    "Date":"2011-06-30T00:00:00Z",
+    "Address":"108 East Oakley Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.013635331,
+    "Longitude":-76.1262786923,
+    "Date":"2011-06-29T00:00:00Z",
+    "Address":"1300 Jamesville Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0494833923,
+    "Longitude":-76.1438772693,
+    "Date":"2011-06-28T00:00:00Z",
+    "Address":"East Washington st. & South McBride St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0752497708,
+    "Longitude":-76.1068978402,
+    "Date":"2011-06-27T00:00:00Z",
+    "Address":"357 North Edwards Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0493786437,
+    "Longitude":-76.1398847738,
+    "Date":"2011-06-24T00:00:00Z",
+    "Address":"800 East Washington St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0687511584,
+    "Longitude":-76.1072643783,
+    "Date":"2011-06-21T00:00:00Z",
+    "Address":"2820 James St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0550632153,
+    "Longitude":-76.0901391194,
+    "Date":"2011-06-20T00:00:00Z",
+    "Address":"2921 East Erie Blvd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.05721026,
+    "Longitude":-76.1722105314,
+    "Date":"2011-06-17T00:00:00Z",
+    "Address":"805 Spencer St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0549896661,
+    "Longitude":-76.0827962654,
+    "Date":"2011-06-06T00:00:00Z",
+    "Address":"Headson Dr. & Thompson Rd.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.047045791,
+    "Longitude":-76.1515018989,
+    "Date":"2011-06-06T00:00:00Z",
+    "Address":"East Jefferson St. & Bank Aly.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0523348041,
+    "Longitude":-76.170537368,
+    "Date":"2011-06-04T00:00:00Z",
+    "Address":"408 North Geddes st.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0010006541,
+    "Longitude":-76.1591142199,
+    "Date":"2011-06-03T00:00:00Z",
+    "Address":"171 Hopper Rd.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0544000646,
+    "Longitude":-76.0957310238,
+    "Date":"2011-05-31T00:00:00Z",
+    "Address":"2740 East Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0650140644,
+    "Longitude":-76.1226951659,
+    "Date":"2011-05-24T00:00:00Z",
+    "Address":"Teal Ave. & James St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0119568616,
+    "Longitude":-76.1605984866,
+    "Date":"2011-05-18T00:00:00Z",
+    "Address":"Barns Ave & Palmer Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0406588584,
+    "Longitude":-76.1612214345,
+    "Date":"2011-05-17T00:00:00Z",
+    "Address":"214 Slocum Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0317126373,
+    "Longitude":-76.1623366958,
+    "Date":"2011-05-14T00:00:00Z",
+    "Address":"Sterling Ave. & Palmer Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0251732959,
+    "Longitude":-76.1204873504,
+    "Date":"2011-05-11T00:00:00Z",
+    "Address":"200 Meadowbrook Dr.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0251531384,
+    "Longitude":-76.1205740927,
+    "Date":"2011-05-06T00:00:00Z",
+    "Address":"Meadowbrook Dr. & Buckingham Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0239686204,
+    "Longitude":-76.1557430709,
+    "Date":"2011-05-05T00:00:00Z",
+    "Address":"115 Rockland Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.043960422,
+    "Longitude":-76.1563832984,
+    "Date":"2011-05-03T00:00:00Z",
+    "Address":"103 McCormick Ave",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0590802086,
+    "Longitude":-76.1978196908,
+    "Date":"2011-05-03T00:00:00Z",
+    "Address":"1211 Milton Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0477185441,
+    "Longitude":-76.1125408532,
+    "Date":"2011-04-28T00:00:00Z",
+    "Address":"213 Croly St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0349060558,
+    "Longitude":-76.1081190654,
+    "Date":"2011-04-25T00:00:00Z",
+    "Address":"Janet Dr. & Euclid Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0374385696,
+    "Longitude":-76.1060328123,
+    "Date":"2011-04-23T00:00:00Z",
+    "Address":"Standish Dr. & Shirley Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0480907492,
+    "Longitude":-76.1127259081,
+    "Date":"2011-04-22T00:00:00Z",
+    "Address":"200 Croly St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0620239317,
+    "Longitude":-76.1222585781,
+    "Date":"2011-04-13T00:00:00Z",
+    "Address":"107 Mariposa St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0781155464,
+    "Longitude":-76.1669524288,
+    "Date":"2011-04-13T00:00:00Z",
+    "Address":"Alliance Bank Stadium",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0190556448,
+    "Longitude":-76.1308943446,
+    "Date":"2011-03-26T00:00:00Z",
+    "Address":"Jamesville Ave & Thurber St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0302993389,
+    "Longitude":-76.1196843245,
+    "Date":"2011-03-24T00:00:00Z",
+    "Address":"504 Broad St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0587940875,
+    "Longitude":-76.1030650459,
+    "Date":"2011-03-23T00:00:00Z",
+    "Address":"Nichols Ave. & Burnet Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0598249542,
+    "Longitude":-76.1509280459,
+    "Date":"2011-03-21T00:00:00Z",
+    "Address":"Ash St. & North Townsend St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0246685341,
+    "Longitude":-76.1691970062,
+    "Date":"2011-03-17T00:00:00Z",
+    "Address":"East Hiawatha Blvd.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0828487416,
+    "Longitude":-76.1576015161,
+    "Date":"2011-03-17T00:00:00Z",
+    "Address":"Hiawatha Blvd. &  7th North St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0389872476,
+    "Longitude":-76.0800757524,
+    "Date":"2011-03-17T00:00:00Z",
+    "Address":"3906 East Genesee St.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0368669102,
+    "Longitude":-76.1512879002,
+    "Date":"2011-03-17T00:00:00Z",
+    "Address":"1054 South Clinton St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0706910199,
+    "Longitude":-76.1524081992,
+    "Date":"2011-03-14T00:00:00Z",
+    "Address":"1005 1st North St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0779368046,
+    "Longitude":-76.1470265255,
+    "Date":"2011-03-10T00:00:00Z",
+    "Address":"1420 Court St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0447748686,
+    "Longitude":-76.1581647284,
+    "Date":"2011-03-09T00:00:00Z",
+    "Address":"Fabius St. & West St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0354796527,
+    "Longitude":-76.1647771186,
+    "Date":"2011-03-04T00:00:00Z",
+    "Address":"119 Delaware St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0353771804,
+    "Longitude":-76.1369190822,
+    "Date":"2011-03-02T00:00:00Z",
+    "Address":"Forestry Dr./Joseph Illick Hall",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0271244798,
+    "Longitude":-76.1725083198,
+    "Date":"2011-03-02T00:00:00Z",
+    "Address":"125 Robineau Rd.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0608853231,
+    "Longitude":-76.1005174707,
+    "Date":"2011-03-01T00:00:00Z",
+    "Address":"1200 Caleb Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.065644308,
+    "Longitude":-76.0905755244,
+    "Date":"2011-02-24T00:00:00Z",
+    "Address":"264 Boston St",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0370591254,
+    "Longitude":-76.1622216355,
+    "Date":"2011-02-23T00:00:00Z",
+    "Address":"West Onon St & Rich St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0606929362,
+    "Longitude":-76.0945186533,
+    "Date":"2011-02-23T00:00:00Z",
+    "Address":"3100 Burnet Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0655571507,
+    "Longitude":-76.0905686865,
+    "Date":"2011-02-22T00:00:00Z",
+    "Address":"268 Boston St",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0794102381,
+    "Longitude":-76.1601988843,
+    "Date":"2011-02-21T00:00:00Z",
+    "Address":"825 East Hiawatha Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0285355243,
+    "Longitude":-76.1583646092,
+    "Date":"2011-02-18T00:00:00Z",
+    "Address":"135 Crescent St",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0493118015,
+    "Longitude":-76.1342047141,
+    "Date":"2011-02-17T00:00:00Z",
+    "Address":"1100 East Washington St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0535201119,
+    "Longitude":-76.1040887722,
+    "Date":"2011-02-17T00:00:00Z",
+    "Address":"East Erie Blvd & Seeley Rd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0535201119,
+    "Longitude":-76.1040887722,
+    "Date":"2011-02-17T00:00:00Z",
+    "Address":"900 Emerson Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0504445086,
+    "Longitude":-76.147363749,
+    "Date":"2011-02-16T00:00:00Z",
+    "Address":"Water St & North State St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0678881879,
+    "Longitude":-76.1254747086,
+    "Date":"2011-02-16T00:00:00Z",
+    "Address":"103 Dorchester Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0582982979,
+    "Longitude":-76.1928687621,
+    "Date":"2011-02-16T00:00:00Z",
+    "Address":"867 Emerson Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0404214126,
+    "Longitude":-76.1520095694,
+    "Date":"2011-02-15T00:00:00Z",
+    "Address":"900 South Clinton St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0509080517,
+    "Longitude":-76.1536175397,
+    "Date":"2011-02-13T00:00:00Z",
+    "Address":"South Clinton St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0750834343,
+    "Longitude":-76.1068885193,
+    "Date":"2011-02-13T00:00:00Z",
+    "Address":"351 North Edwards Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.024580704,
+    "Longitude":-76.1598950752,
+    "Date":"2011-02-13T00:00:00Z",
+    "Address":"Parkway Dr & Temple Pl",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0462729526,
+    "Longitude":-76.1733081272,
+    "Date":"2011-02-12T00:00:00Z",
+    "Address":"1153 West Fayette St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.024580704,
+    "Longitude":-76.1598950752,
+    "Date":"2011-02-10T00:00:00Z",
+    "Address":"Parkway Dr & Temple Pl",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0499769101,
+    "Longitude":-76.1633247684,
+    "Date":"2011-02-10T00:00:00Z",
+    "Address":"400 Tracy St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0462729526,
+    "Longitude":-76.1733081272,
+    "Date":"2011-02-10T00:00:00Z",
+    "Address":"1153 West Fayette St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0420197453,
+    "Longitude":-76.0884908162,
+    "Date":"2011-02-09T00:00:00Z",
+    "Address":"3538 East Genesee St",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0356859804,
+    "Longitude":-76.1796415316,
+    "Date":"2011-02-08T00:00:00Z",
+    "Address":"Hoefler St & Rowland St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0684139319,
+    "Longitude":-76.1465831885,
+    "Date":"2011-02-06T00:00:00Z",
+    "Address":"1st North St & Cleveland Ave",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0332225412,
+    "Longitude":-76.1524301629,
+    "Date":"2011-02-04T00:00:00Z",
+    "Address":"101 Blaine St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0731383091,
+    "Longitude":-76.1030066014,
+    "Date":"2011-02-03T00:00:00Z",
+    "Address":"178 Colby St",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0655007605,
+    "Longitude":-76.0893310729,
+    "Date":"2011-01-31T00:00:00Z",
+    "Address":"108-112 Conklin Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0239337364,
+    "Longitude":-76.1583374522,
+    "Date":"2011-01-31T00:00:00Z",
+    "Address":"263 Rockland Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0243250219,
+    "Longitude":-76.1629334605,
+    "Date":"2011-01-31T00:00:00Z",
+    "Address":"Parkway Dr. & Bellaire Pl.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0116316644,
+    "Longitude":-76.1497292901,
+    "Date":"2011-01-31T00:00:00Z",
+    "Address":"115 Conan St",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.03674911,
+    "Longitude":-76.1723117784,
+    "Date":"2011-01-30T00:00:00Z",
+    "Address":"320 Putman St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0468095117,
+    "Longitude":-76.0935062121,
+    "Date":"2011-01-28T00:00:00Z",
+    "Address":"100 Phillips Rd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0504188578,
+    "Longitude":-76.1149694559,
+    "Date":"2011-01-27T00:00:00Z",
+    "Address":"Westmoreland Ave & Dakin St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0530952571,
+    "Longitude":-76.1330527387,
+    "Date":"2011-01-27T00:00:00Z",
+    "Address":"100 Manilla St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0515333458,
+    "Longitude":-76.1253861352,
+    "Date":"2011-01-26T00:00:00Z",
+    "Address":"991 Canal St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0476582524,
+    "Longitude":-76.1399438941,
+    "Date":"2011-01-26T00:00:00Z",
+    "Address":"Foreman Ave & Wellington Pl",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0509793068,
+    "Longitude":-76.1591633749,
+    "Date":"2011-01-26T00:00:00Z",
+    "Address":"Tracy St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0413831871,
+    "Longitude":-76.0858323052,
+    "Date":"2011-01-26T00:00:00Z",
+    "Address":"3600 East Genesee St",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0383037744,
+    "Longitude":-76.1824144565,
+    "Date":"2011-01-24T00:00:00Z",
+    "Address":"700-900 Grand Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0509793068,
+    "Longitude":-76.1591633749,
+    "Date":"2011-01-23T00:00:00Z",
+    "Address":"Tracy St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.050215446,
+    "Longitude":-76.1341860339,
+    "Date":"2011-01-20T00:00:00Z",
+    "Address":"1100 East Water St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0502936214,
+    "Longitude":-76.1364708239,
+    "Date":"2011-01-18T00:00:00Z",
+    "Address":"South Crouse Ave & East Water St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0105817331,
+    "Longitude":-76.1605559733,
+    "Date":"2011-01-17T00:00:00Z",
+    "Address":"306 Barnes Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0239663021,
+    "Longitude":-76.1559046955,
+    "Date":"2011-01-16T00:00:00Z",
+    "Address":"129 Rockland Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0168072321,
+    "Longitude":-76.1280887689,
+    "Date":"2011-01-14T00:00:00Z",
+    "Address":"1520 Comstock Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0168866272,
+    "Longitude":-76.128916081,
+    "Date":"2011-01-14T00:00:00Z",
+    "Address":"1003 Jamesville Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0711367925,
+    "Longitude":-76.1000540426,
+    "Date":"2011-01-14T00:00:00Z",
+    "Address":"200 Lamson St",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0510857712,
+    "Longitude":-76.1149464405,
+    "Date":"2011-01-12T00:00:00Z",
+    "Address":"Peat St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0676323091,
+    "Longitude":-76.1251368886,
+    "Date":"2010-12-31T00:00:00Z",
+    "Address":"315 Rugby Rd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0742441604,
+    "Longitude":-76.1497595176,
+    "Date":"2010-12-30T00:00:00Z",
+    "Address":"1017 Kirkpatrick St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0260211635,
+    "Longitude":-76.1596068758,
+    "Date":"2010-12-30T00:00:00Z",
+    "Address":"130 West Bissell St.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0742441604,
+    "Longitude":-76.1497595176,
+    "Date":"2010-12-30T00:00:00Z",
+    "Address":"1017 Kirkpatrick St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0735515468,
+    "Longitude":-76.1098093521,
+    "Date":"2010-12-30T00:00:00Z",
+    "Address":"300 Norwood Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0208672567,
+    "Longitude":-76.1270515308,
+    "Date":"2010-12-29T00:00:00Z",
+    "Address":"129 Goodrich Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0481641828,
+    "Longitude":-76.1760755905,
+    "Date":"2010-12-28T00:00:00Z",
+    "Address":"1033 West Erie Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":42.9989498263,
+    "Longitude":-76.1552330473,
+    "Date":"2010-12-28T00:00:00Z",
+    "Address":"203 Merritt Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0500613843,
+    "Longitude":-76.1588660639,
+    "Date":"2010-12-27T00:00:00Z",
+    "Address":"West St. & Water St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0716280529,
+    "Longitude":-76.1263633441,
+    "Date":"2010-12-23T00:00:00Z",
+    "Address":"Wheaton Rd. & Mertens Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0453461574,
+    "Longitude":-76.1343625178,
+    "Date":"2010-12-22T00:00:00Z",
+    "Address":"University Ave. & Madison St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.040474042,
+    "Longitude":-76.1366230703,
+    "Date":"2010-12-21T00:00:00Z",
+    "Address":"100 Waverly Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0487060282,
+    "Longitude":-76.1662644651,
+    "Date":"2010-12-21T00:00:00Z",
+    "Address":"Erie Blvd & VanRenssalear St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":42.9872029593,
+    "Longitude":-76.1428962201,
+    "Date":"2010-12-19T00:00:00Z",
+    "Address":"101 Oakley Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.015615681,
+    "Longitude":-76.1563517979,
+    "Date":"2010-12-19T00:00:00Z",
+    "Address":"159 Vale St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.035101988,
+    "Longitude":-76.1689361522,
+    "Date":"2010-12-18T00:00:00Z",
+    "Address":"Elliot St. & Putnam St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0123901409,
+    "Longitude":-76.1448960843,
+    "Date":"2010-12-17T00:00:00Z",
+    "Address":"200 Hall Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0789317531,
+    "Longitude":-76.1337165014,
+    "Date":"2010-12-15T00:00:00Z",
+    "Address":"221 Rivoli Ave",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0562517383,
+    "Longitude":-76.189604065,
+    "Date":"2010-12-15T00:00:00Z",
+    "Address":"800 Emerson Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0414472747,
+    "Longitude":-76.1066625349,
+    "Date":"2010-12-14T00:00:00Z",
+    "Address":"115 Bradford Pkwy.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0622428154,
+    "Longitude":-76.0926296575,
+    "Date":"2010-12-14T00:00:00Z",
+    "Address":"427 Cloveridge Rd.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0038064051,
+    "Longitude":-76.1302822986,
+    "Date":"2010-12-09T00:00:00Z",
+    "Address":"911 East Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0138327329,
+    "Longitude":-76.1253604479,
+    "Date":"2010-12-07T00:00:00Z",
+    "Address":"121 Tejah Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0239669641,
+    "Longitude":-76.1558585167,
+    "Date":"2010-12-07T00:00:00Z",
+    "Address":"125 Rockland Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0170243785,
+    "Longitude":-76.1414103191,
+    "Date":"2010-12-06T00:00:00Z",
+    "Address":"3226 South Salina Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0567200027,
+    "Longitude":-76.1349198366,
+    "Date":"2010-12-06T00:00:00Z",
+    "Address":"360 Green St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0179387227,
+    "Longitude":-76.1298317881,
+    "Date":"2010-12-02T00:00:00Z",
+    "Address":"923  Jamesville Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0554199032,
+    "Longitude":-76.1473689638,
+    "Date":"2010-12-02T00:00:00Z",
+    "Address":"518 North Townsend St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0438983257,
+    "Longitude":-76.0901109426,
+    "Date":"2010-11-30T00:00:00Z",
+    "Address":"225 Deforest Rd.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0554199032,
+    "Longitude":-76.1473689638,
+    "Date":"2010-11-28T00:00:00Z",
+    "Address":"518 North Townsend St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0427556683,
+    "Longitude":-76.0901071814,
+    "Date":"2010-11-28T00:00:00Z",
+    "Address":"307 East Genesee Pkwy.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0521222043,
+    "Longitude":-76.104049649,
+    "Date":"2010-11-27T00:00:00Z",
+    "Address":"212 Seeley Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0599230023,
+    "Longitude":-76.1162586301,
+    "Date":"2010-11-25T00:00:00Z",
+    "Address":"701 Robinson St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0197490378,
+    "Longitude":-76.1618045513,
+    "Date":"2010-11-23T00:00:00Z",
+    "Address":"218 Clyde Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":42.9957485019,
+    "Longitude":-76.1368381025,
+    "Date":"2010-11-23T00:00:00Z",
+    "Address":"138 Thurlow Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0619547687,
+    "Longitude":-76.1033207112,
+    "Date":"2010-11-20T00:00:00Z",
+    "Address":"Sunny Crest Rd. & Nichols Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0521251248,
+    "Longitude":-76.149122192,
+    "Date":"2010-11-20T00:00:00Z",
+    "Address":"325 James St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0538250448,
+    "Longitude":-76.1009519962,
+    "Date":"2010-11-17T00:00:00Z",
+    "Address":"2600 East Erie Blvd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0782546453,
+    "Longitude":-76.1465572651,
+    "Date":"2010-11-17T00:00:00Z",
+    "Address":"Dale St. & Court St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0464361149,
+    "Longitude":-76.1904568844,
+    "Date":"2010-11-17T00:00:00Z",
+    "Address":"210 Avery St..",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0138617689,
+    "Longitude":-76.1704511418,
+    "Date":"2010-11-13T00:00:00Z",
+    "Address":"421 Mitchell Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0306703219,
+    "Longitude":-76.1083740988,
+    "Date":"2010-11-11T00:00:00Z",
+    "Address":"210 Croyden Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0509596906,
+    "Longitude":-76.1554129111,
+    "Date":"2010-11-08T00:00:00Z",
+    "Address":"North Franklin St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0537518829,
+    "Longitude":-76.0907645559,
+    "Date":"2010-11-07T00:00:00Z",
+    "Address":"Smith St. & Polk St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0218074359,
+    "Longitude":-76.1500446384,
+    "Date":"2010-11-05T00:00:00Z",
+    "Address":"1812 Midland Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0055812102,
+    "Longitude":-76.1450718164,
+    "Date":"2010-11-05T00:00:00Z",
+    "Address":"166 West Glen Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0500894108,
+    "Longitude":-76.1182391587,
+    "Date":"2010-11-03T00:00:00Z",
+    "Address":"Erie Blvd. & Lombard Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0582982979,
+    "Longitude":-76.1928687621,
+    "Date":"2010-11-02T00:00:00Z",
+    "Address":"865 Emerson Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0396589665,
+    "Longitude":-76.1057156824,
+    "Date":"2010-11-02T00:00:00Z",
+    "Address":"205 Bradford Pkwy.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0396589665,
+    "Longitude":-76.1057156824,
+    "Date":"2010-11-01T00:00:00Z",
+    "Address":"205 Bradford Pkwy.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0751800932,
+    "Longitude":-76.1425780469,
+    "Date":"2010-10-28T00:00:00Z",
+    "Address":"Butternut St. & Dale St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0366362622,
+    "Longitude":-76.1472507419,
+    "Date":"2010-10-26T00:00:00Z",
+    "Address":"South State St. & Pavilion Ter.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0228950091,
+    "Longitude":-76.163621045,
+    "Date":"2010-10-26T00:00:00Z",
+    "Address":"1629 West Colvin St.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0493199898,
+    "Longitude":-76.1234745003,
+    "Date":"2010-10-25T00:00:00Z",
+    "Address":"East Erie Blvd. & Cherry St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0257221307,
+    "Longitude":-76.1335280818,
+    "Date":"2010-10-25T00:00:00Z",
+    "Address":"East Colvin St. & Hughes Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0253934281,
+    "Longitude":-76.1333248806,
+    "Date":"2010-10-22T00:00:00Z",
+    "Address":"121 Hughes Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0383146975,
+    "Longitude":-76.0963313994,
+    "Date":"2010-10-20T00:00:00Z",
+    "Address":"Euclid St. & Guilford St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0542877653,
+    "Longitude":-76.1446403955,
+    "Date":"2010-10-20T00:00:00Z",
+    "Address":"401 North McBride St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0485362985,
+    "Longitude":-76.1731697342,
+    "Date":"2010-10-10T00:00:00Z",
+    "Address":"101 Wall St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0498929292,
+    "Longitude":-76.1614703916,
+    "Date":"2010-10-01T00:00:00Z",
+    "Address":"530 West Erie Blvd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0311392703,
+    "Longitude":-76.1645334076,
+    "Date":"2010-09-29T00:00:00Z",
+    "Address":"327 Onondaga Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0384000663,
+    "Longitude":-76.1438039329,
+    "Date":"2010-09-27T00:00:00Z",
+    "Address":"South McBride St. & Burt St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0190172063,
+    "Longitude":-76.1364698248,
+    "Date":"2010-09-22T00:00:00Z",
+    "Address":"102 Stevens Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0377039804,
+    "Longitude":-76.1843145257,
+    "Date":"2010-09-21T00:00:00Z",
+    "Address":"800 Grand Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0690820741,
+    "Longitude":-76.1014777145,
+    "Date":"2010-09-20T00:00:00Z",
+    "Address":"Lynwood Ave & James St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.036228861,
+    "Longitude":-76.1590777514,
+    "Date":"2010-09-18T00:00:00Z",
+    "Address":"706 Tallman St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":42.9691439491,
+    "Longitude":-76.4427928004,
+    "Date":"2010-09-13T00:00:00Z",
+    "Address":"4070 Mill Road Skaneateles NY",
+    "Zip":13152
+  },
+  {
+    "Latitude":43.0521645723,
+    "Longitude":-76.1152155971,
+    "Date":"2010-09-11T00:00:00Z",
+    "Address":"Deat St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0378196801,
+    "Longitude":-76.1771704337,
+    "Date":"2010-09-10T00:00:00Z",
+    "Address":"Herriman St & Fitch St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0579323069,
+    "Longitude":-76.1911830831,
+    "Date":"2010-09-09T00:00:00Z",
+    "Address":"827 Emerson Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0360584828,
+    "Longitude":-76.1590181435,
+    "Date":"2010-09-07T00:00:00Z",
+    "Address":"314 South Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0180846209,
+    "Longitude":-76.148633207,
+    "Date":"2010-09-03T00:00:00Z",
+    "Address":"2202 Midland Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0580262635,
+    "Longitude":-76.1913598246,
+    "Date":"2010-09-01T00:00:00Z",
+    "Address":"829 Emerson Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":42.9943358881,
+    "Longitude":-76.1377807906,
+    "Date":"2010-09-01T00:00:00Z",
+    "Address":"300 Sunrise Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0507959156,
+    "Longitude":-76.1437836958,
+    "Date":"2010-08-31T00:00:00Z",
+    "Address":"100 North McBride St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0131651441,
+    "Longitude":-76.1448768456,
+    "Date":"2010-08-31T00:00:00Z",
+    "Address":"151 West Matson Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0531638667,
+    "Longitude":-76.1302444765,
+    "Date":"2010-08-25T00:00:00Z",
+    "Address":"333 Elm St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0501909628,
+    "Longitude":-76.1751689586,
+    "Date":"2010-08-24T00:00:00Z",
+    "Address":"543-545 Richmond Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0501909628,
+    "Longitude":-76.1751689586,
+    "Date":"2010-08-20T00:00:00Z",
+    "Address":"339 North Beech St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0606435186,
+    "Longitude":-76.15766189,
+    "Date":"2010-08-13T00:00:00Z",
+    "Address":"Spencer St. & North Clinton St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0591015152,
+    "Longitude":-76.1564798382,
+    "Date":"2010-08-12T00:00:00Z",
+    "Address":"700 North Clinton St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0527270706,
+    "Longitude":-76.1841716428,
+    "Date":"2010-08-10T00:00:00Z",
+    "Address":"1841 West Fayette St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0734694225,
+    "Longitude":-76.147387053,
+    "Date":"2010-08-10T00:00:00Z",
+    "Address":"2351 Grant Blvd.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0706538099,
+    "Longitude":-76.1311590046,
+    "Date":"2010-08-10T00:00:00Z",
+    "Address":"123 Woodlawn Ter.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0372493161,
+    "Longitude":-76.1473666571,
+    "Date":"2010-08-09T00:00:00Z",
+    "Address":"1214 South State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0434133803,
+    "Longitude":-76.1116759982,
+    "Date":"2010-08-09T00:00:00Z",
+    "Address":"214 Scottholm Ter.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0692638105,
+    "Longitude":-76.1388580201,
+    "Date":"2010-08-06T00:00:00Z",
+    "Address":"Scoville Ave & Wadsworth St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0385149809,
+    "Longitude":-76.0841456918,
+    "Date":"2010-08-03T00:00:00Z",
+    "Address":"402 Lockwood Rd.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0373482568,
+    "Longitude":-76.1473732768,
+    "Date":"2010-08-02T00:00:00Z",
+    "Address":"1210 South State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0492897339,
+    "Longitude":-76.1276524979,
+    "Date":"2010-08-01T00:00:00Z",
+    "Address":"East Washington St. & South Beech St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0482569511,
+    "Longitude":-76.1214486588,
+    "Date":"2010-07-30T00:00:00Z",
+    "Address":"200 Columbus Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0813100239,
+    "Longitude":-76.1430682951,
+    "Date":"2010-07-29T00:00:00Z",
+    "Address":"118 Ardmore Pl.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0308281265,
+    "Longitude":-76.1082690724,
+    "Date":"2010-07-28T00:00:00Z",
+    "Address":"201 Croyden Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0460874903,
+    "Longitude":-76.1499202822,
+    "Date":"2010-07-27T00:00:00Z",
+    "Address":"232 East Onondaga St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0764306834,
+    "Longitude":-76.1589067825,
+    "Date":"2010-07-26T00:00:00Z",
+    "Address":"3029 Grant Blvd.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0460874903,
+    "Longitude":-76.1499202822,
+    "Date":"2010-07-21T00:00:00Z",
+    "Address":"232 East Onondaga St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0460874903,
+    "Longitude":-76.1499202822,
+    "Date":"2010-07-19T00:00:00Z",
+    "Address":"232 East Onondaga St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0536580657,
+    "Longitude":-76.1967363882,
+    "Date":"2010-07-19T00:00:00Z",
+    "Address":"238 Hayden Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0367548279,
+    "Longitude":-76.155840069,
+    "Date":"2010-07-19T00:00:00Z",
+    "Address":"381 Midland Ave.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0672989532,
+    "Longitude":-76.1113053382,
+    "Date":"2010-07-18T00:00:00Z",
+    "Address":"152 Foresthill Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0533748351,
+    "Longitude":-76.156198028,
+    "Date":"2010-07-18T00:00:00Z",
+    "Address":"Wallace St. & Herald Pl.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0484162894,
+    "Longitude":-76.1677925996,
+    "Date":"2010-07-18T00:00:00Z",
+    "Address":"732 West Erie Blvd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0549997517,
+    "Longitude":-76.1431254843,
+    "Date":"2010-07-15T00:00:00Z",
+    "Address":"Catherine St. & James St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0020863629,
+    "Longitude":-76.1297273337,
+    "Date":"2010-07-12T00:00:00Z",
+    "Address":"595 East Seneca Tpk.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0103559679,
+    "Longitude":-76.1505121954,
+    "Date":"2010-07-11T00:00:00Z",
+    "Address":"621 Ballantyne Rd.",
+    "Zip":13207
+  },
+  {
+    "Latitude":null,
+    "Longitude":null,
+    "Date":"2010-07-10T00:00:00Z",
+    "Address":"Alps",
+    "Zip":null
+  },
+  {
+    "Latitude":null,
+    "Longitude":null,
+    "Date":"2010-07-10T00:00:00Z",
+    "Address":"Alps",
+    "Zip":null
+  },
+  {
+    "Latitude":43.0481483589,
+    "Longitude":-76.1753718599,
+    "Date":"2010-07-09T00:00:00Z",
+    "Address":"1000 West Erie Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0402058597,
+    "Longitude":-76.1532124782,
+    "Date":"2010-07-09T00:00:00Z",
+    "Address":"300 Temple St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0481483589,
+    "Longitude":-76.1753718599,
+    "Date":"2010-07-08T00:00:00Z",
+    "Address":"1000 West Erie Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0181366217,
+    "Longitude":-76.148575088,
+    "Date":"2010-07-07T00:00:00Z",
+    "Address":"Midland Ave & West Corning Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0481483589,
+    "Longitude":-76.1753718599,
+    "Date":"2010-07-06T00:00:00Z",
+    "Address":"1000 West Erie Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0397043777,
+    "Longitude":-76.1551990767,
+    "Date":"2010-07-05T00:00:00Z",
+    "Address":"King St. &Temple St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0535961532,
+    "Longitude":-76.1276696103,
+    "Date":"2010-07-01T00:00:00Z",
+    "Address":"331 North Beech St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.039387068,
+    "Longitude":-76.1054969136,
+    "Date":"2010-06-30T00:00:00Z",
+    "Address":"219 Bradford Pkwy.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0535399016,
+    "Longitude":-76.1350726044,
+    "Date":"2010-06-30T00:00:00Z",
+    "Address":"416 Lodi St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0521944303,
+    "Longitude":-76.1762561631,
+    "Date":"2010-06-30T00:00:00Z",
+    "Address":"Sackett St & Park Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.091434855,
+    "Longitude":-76.1702599939,
+    "Date":"2010-06-28T00:00:00Z",
+    "Address":"431 7th North St",
+    "Zip":13088
+  },
+  {
+    "Latitude":43.0535399016,
+    "Longitude":-76.1350726044,
+    "Date":"2010-06-23T00:00:00Z",
+    "Address":"416 Lodi St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0146019833,
+    "Longitude":-76.1667405882,
+    "Date":"2010-06-22T00:00:00Z",
+    "Address":"313 Lynch Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0782709397,
+    "Longitude":-76.1366720859,
+    "Date":"2010-06-21T00:00:00Z",
+    "Address":"529 Darlington Rd.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0523071789,
+    "Longitude":-76.173746553,
+    "Date":"2010-06-19T00:00:00Z",
+    "Address":"312 Liberty St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0661508945,
+    "Longitude":-76.155824858,
+    "Date":"2010-06-18T00:00:00Z",
+    "Address":"806 North Alvord St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0592092745,
+    "Longitude":-76.1804696138,
+    "Date":"2010-06-17T00:00:00Z",
+    "Address":"900 East Hiawatha Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0496509135,
+    "Longitude":-76.1127175289,
+    "Date":"2010-06-17T00:00:00Z",
+    "Address":"137 Croly St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0405293812,
+    "Longitude":-76.1366887051,
+    "Date":"2010-06-16T00:00:00Z",
+    "Address":"South Crouse Ave & Waverly Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0494864229,
+    "Longitude":-76.09372453,
+    "Date":"2010-06-16T00:00:00Z",
+    "Address":"600 Foxboro Rd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0482977961,
+    "Longitude":-76.1169968063,
+    "Date":"2010-06-16T00:00:00Z",
+    "Address":"1903 East Fayette St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.035795466,
+    "Longitude":-76.1068570213,
+    "Date":"2010-06-15T00:00:00Z",
+    "Address":"409 Scott Ave",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0285943517,
+    "Longitude":-76.1956155883,
+    "Date":"2010-06-15T00:00:00Z",
+    "Address":"Huntington Rd. & Bellevue Ave",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0592071101,
+    "Longitude":-76.134549405,
+    "Date":"2010-06-14T00:00:00Z",
+    "Address":"James St & Oak St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0209204685,
+    "Longitude":-76.1334889014,
+    "Date":"2010-06-14T00:00:00Z",
+    "Address":"Alden St & Vincent St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0492852574,
+    "Longitude":-76.1744740297,
+    "Date":"2010-06-12T00:00:00Z",
+    "Address":"117 Lakeview Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0492852574,
+    "Longitude":-76.1744740297,
+    "Date":"2010-06-12T00:00:00Z",
+    "Address":"117 Lakeview Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0599588673,
+    "Longitude":-76.197443541,
+    "Date":"2010-06-10T00:00:00Z",
+    "Address":"1318 Willis Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.06939368,
+    "Longitude":-76.1252814004,
+    "Date":"2010-06-07T00:00:00Z",
+    "Address":"201 Dorchester Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0426941425,
+    "Longitude":-76.0995001059,
+    "Date":"2010-06-06T00:00:00Z",
+    "Address":"3100 East Genesee St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.015614738,
+    "Longitude":-76.1573302811,
+    "Date":"2010-06-02T00:00:00Z",
+    "Address":"100 Keen Pl.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0687340266,
+    "Longitude":-76.1088155393,
+    "Date":"2010-06-01T00:00:00Z",
+    "Address":"Hillsdale Ave & James St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0494512448,
+    "Longitude":-76.1454553093,
+    "Date":"2010-05-30T00:00:00Z",
+    "Address":"506 East Washington St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0506821921,
+    "Longitude":-76.1387585038,
+    "Date":"2010-05-27T00:00:00Z",
+    "Address":"912 West Erie Blvd",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0222441635,
+    "Longitude":-76.1136254471,
+    "Date":"2010-05-27T00:00:00Z",
+    "Address":"2030 East Colvin St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0535559587,
+    "Longitude":-76.1245445121,
+    "Date":"2010-05-26T00:00:00Z",
+    "Address":"Sherwood Ave & Burnet Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0518331987,
+    "Longitude":-76.0958070733,
+    "Date":"2010-05-26T00:00:00Z",
+    "Address":"673 Hazewood Ave",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0792714577,
+    "Longitude":-76.1603056035,
+    "Date":"2010-05-20T00:00:00Z",
+    "Address":"819 East Hiawatha Blvd.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0512910071,
+    "Longitude":-76.1038217392,
+    "Date":"2010-05-20T00:00:00Z",
+    "Address":"301 Seeley Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0546766752,
+    "Longitude":-76.1887354861,
+    "Date":"2010-05-20T00:00:00Z",
+    "Address":"106 Herkimer St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0775326148,
+    "Longitude":-76.161493053,
+    "Date":"2010-05-19T00:00:00Z",
+    "Address":"East Hiawatha Blvd & Grant Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0566924834,
+    "Longitude":-76.1168546303,
+    "Date":"2010-05-18T00:00:00Z",
+    "Address":"208 Dillaye Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0156906481,
+    "Longitude":-76.1244059765,
+    "Date":"2010-05-18T00:00:00Z",
+    "Address":"404 Thayer St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0631479381,
+    "Longitude":-76.1602821971,
+    "Date":"2010-05-14T00:00:00Z",
+    "Address":"900 North Clinton St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0414472747,
+    "Longitude":-76.1066625349,
+    "Date":"2010-05-06T00:00:00Z",
+    "Address":"115 Bradford Pkwy",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0533227442,
+    "Longitude":-76.1052582902,
+    "Date":"2010-05-06T00:00:00Z",
+    "Address":"2406 East Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0145971665,
+    "Longitude":-76.1668328976,
+    "Date":"2010-05-05T00:00:00Z",
+    "Address":"321-325 Lynch Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0494005257,
+    "Longitude":-76.1420723649,
+    "Date":"2010-05-03T00:00:00Z",
+    "Address":"700 Washington St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0218418024,
+    "Longitude":-76.121533881,
+    "Date":"2010-05-03T00:00:00Z",
+    "Address":"1500 East Colvin St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0415161625,
+    "Longitude":-76.1066861618,
+    "Date":"2010-05-02T00:00:00Z",
+    "Address":"109 Bradford Pkwy",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0415161625,
+    "Longitude":-76.1066861618,
+    "Date":"2010-04-29T00:00:00Z",
+    "Address":"109 Bradford Pkwy",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0622428154,
+    "Longitude":-76.0926296575,
+    "Date":"2010-04-22T00:00:00Z",
+    "Address":"427 Cloveridge Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.049485731,
+    "Longitude":-76.1474752547,
+    "Date":"2010-04-21T00:00:00Z",
+    "Address":"200 South State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0470034554,
+    "Longitude":-76.1277181403,
+    "Date":"2010-04-21T00:00:00Z",
+    "Address":"South Beech St. & East Genesee St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.061007053,
+    "Longitude":-76.1609944614,
+    "Date":"2010-04-21T00:00:00Z",
+    "Address":"West Kirkpatrick St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0210243004,
+    "Longitude":-76.1497517117,
+    "Date":"2010-04-20T00:00:00Z",
+    "Address":"202 Forest Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0258145446,
+    "Longitude":-76.1390635181,
+    "Date":"2010-04-19T00:00:00Z",
+    "Address":"115 Berwyn Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0520820088,
+    "Longitude":-76.1340565016,
+    "Date":"2010-04-19T00:00:00Z",
+    "Address":"660 Burnet Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.061007053,
+    "Longitude":-76.1609944614,
+    "Date":"2010-04-18T00:00:00Z",
+    "Address":"West Kirkpatrick St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0404377208,
+    "Longitude":-76.114111832,
+    "Date":"2010-04-17T00:00:00Z",
+    "Address":"749 Westmoreland Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0682411996,
+    "Longitude":-76.1259437177,
+    "Date":"2010-04-16T00:00:00Z",
+    "Address":"125-131 Wheaton Rd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0552314819,
+    "Longitude":-76.1521678271,
+    "Date":"2010-04-14T00:00:00Z",
+    "Address":"321 North Salina St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0263940795,
+    "Longitude":-76.1707315609,
+    "Date":"2010-04-13T00:00:00Z",
+    "Address":"610 Roberts Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0122008267,
+    "Longitude":-76.1478398717,
+    "Date":"2010-04-12T00:00:00Z",
+    "Address":"Midland Ave & Hall Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0404412264,
+    "Longitude":-76.1321176984,
+    "Date":"2010-04-10T00:00:00Z",
+    "Address":"304 Waverly Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0708664852,
+    "Longitude":-76.1287358856,
+    "Date":"2010-04-10T00:00:00Z",
+    "Address":"481 Brattle Rd",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.050770275,
+    "Longitude":-76.093691794,
+    "Date":"2010-04-09T00:00:00Z",
+    "Address":"117 Foxboro Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0392735322,
+    "Longitude":-76.174789242,
+    "Date":"2010-04-08T00:00:00Z",
+    "Address":"215 Grand Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0391740464,
+    "Longitude":-76.1727181961,
+    "Date":"2010-04-08T00:00:00Z",
+    "Address":"600 Delaware St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0391740464,
+    "Longitude":-76.1727181961,
+    "Date":"2010-04-08T00:00:00Z",
+    "Address":"600 Delaware St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0190172063,
+    "Longitude":-76.1364698248,
+    "Date":"2010-04-07T00:00:00Z",
+    "Address":"102 Stevens Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0698460582,
+    "Longitude":-76.0986635185,
+    "Date":"2010-04-07T00:00:00Z",
+    "Address":"101 Walters Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0190172063,
+    "Longitude":-76.1364698248,
+    "Date":"2010-04-06T00:00:00Z",
+    "Address":"102 Stevens Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0702062294,
+    "Longitude":-76.1134639653,
+    "Date":"2010-04-06T00:00:00Z",
+    "Address":"218 North Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0477695444,
+    "Longitude":-76.1378291626,
+    "Date":"2010-04-06T00:00:00Z",
+    "Address":"312 Irving Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0508083898,
+    "Longitude":-76.1397811949,
+    "Date":"2010-04-05T00:00:00Z",
+    "Address":"815 East Erie Blvd",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0233541838,
+    "Longitude":-76.1952657786,
+    "Date":"2010-04-03T00:00:00Z",
+    "Address":"208 Alton St.",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0393131063,
+    "Longitude":-76.1572027549,
+    "Date":"2010-04-01T00:00:00Z",
+    "Address":"141 Midland Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0119849205,
+    "Longitude":-76.1480592157,
+    "Date":"2010-03-28T00:00:00Z",
+    "Address":"120 Rill Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0239362498,
+    "Longitude":-76.1581423447,
+    "Date":"2010-03-27T00:00:00Z",
+    "Address":"255 Rockland Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0393680338,
+    "Longitude":-76.1573877954,
+    "Date":"2010-03-25T00:00:00Z",
+    "Address":"Lincoln Ave. & Midland Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0613041706,
+    "Longitude":-76.1181450679,
+    "Date":"2010-03-23T00:00:00Z",
+    "Address":"Boyden St. (Behind Field)",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0272130944,
+    "Longitude":-76.1600123092,
+    "Date":"2010-03-22T00:00:00Z",
+    "Address":"12 Centennial Dr.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0036876943,
+    "Longitude":-76.1303741582,
+    "Date":"2010-03-21T00:00:00Z",
+    "Address":"914 East Brighton Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0544189273,
+    "Longitude":-76.1858787857,
+    "Date":"2010-03-19T00:00:00Z",
+    "Address":"1937 West Fayette St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0548930509,
+    "Longitude":-76.0907641197,
+    "Date":"2010-03-18T00:00:00Z",
+    "Address":"2900 East Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.002871857,
+    "Longitude":-76.133435534,
+    "Date":"2010-02-28T00:00:00Z",
+    "Address":"509 East Seneca Tpk",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0415810587,
+    "Longitude":-76.1066989509,
+    "Date":"2010-02-27T00:00:00Z",
+    "Address":"107 Bradford Pkwy",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.028733177,
+    "Longitude":-76.163348364,
+    "Date":"2010-02-27T00:00:00Z",
+    "Address":"Lower Onondaga Park",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.014212913,
+    "Longitude":-76.1243344089,
+    "Date":"2010-02-26T00:00:00Z",
+    "Address":"152 Tejah Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0759974027,
+    "Longitude":-76.172645864,
+    "Date":"2010-02-26T00:00:00Z",
+    "Address":"2250 Park St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0392735322,
+    "Longitude":-76.174789242,
+    "Date":"2010-02-25T00:00:00Z",
+    "Address":"215 Grand Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0392735322,
+    "Longitude":-76.174789242,
+    "Date":"2010-02-25T00:00:00Z",
+    "Address":"215 Grand Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0302373385,
+    "Longitude":-76.1904631744,
+    "Date":"2010-02-25T00:00:00Z",
+    "Address":"Archer Rd. & Bellevue Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0409754762,
+    "Longitude":-76.1721365875,
+    "Date":"2010-02-23T00:00:00Z",
+    "Address":"Grand Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0424045683,
+    "Longitude":-76.105404279,
+    "Date":"2010-02-22T00:00:00Z",
+    "Address":"100 Brookford Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0567516049,
+    "Longitude":-76.1548444619,
+    "Date":"2010-02-21T00:00:00Z",
+    "Address":"200 Genant Dr.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0567516049,
+    "Longitude":-76.1548444619,
+    "Date":"2010-02-17T00:00:00Z",
+    "Address":"200 Genant Dr.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0541913609,
+    "Longitude":-76.1155593741,
+    "Date":"2010-02-16T00:00:00Z",
+    "Address":"Peat St. & Canal St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0267944735,
+    "Longitude":-76.1944327847,
+    "Date":"2010-02-14T00:00:00Z",
+    "Address":"105 Hilltop Rd.",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0198448943,
+    "Longitude":-76.1509660044,
+    "Date":"2010-02-13T00:00:00Z",
+    "Address":"Hope Ave. & Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0557239108,
+    "Longitude":-76.1622279332,
+    "Date":"2010-02-12T00:00:00Z",
+    "Address":"Maltbie St. & Evans St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.050659002,
+    "Longitude":-76.1320129986,
+    "Date":"2010-02-11T00:00:00Z",
+    "Address":"Walnut Ave & East Erie Blvd.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0679518595,
+    "Longitude":-76.0908144289,
+    "Date":"2010-02-10T00:00:00Z",
+    "Address":"120 Boston St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0520820088,
+    "Longitude":-76.1340565016,
+    "Date":"2010-02-09T00:00:00Z",
+    "Address":"660 Burnet Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.073057071,
+    "Longitude":-76.1087940909,
+    "Date":"2010-02-08T00:00:00Z",
+    "Address":"285 Ashdale Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.045459183,
+    "Longitude":-76.147507392,
+    "Date":"2010-02-04T00:00:00Z",
+    "Address":"Madison St. & South State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0320527428,
+    "Longitude":-76.1100580206,
+    "Date":"2010-02-03T00:00:00Z",
+    "Address":"Sherbourne Rd. & Crawford Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0402186033,
+    "Longitude":-76.085517865,
+    "Date":"2010-02-03T00:00:00Z",
+    "Address":"522 Hillsboro Pkwy",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.073057071,
+    "Longitude":-76.1087940909,
+    "Date":"2010-02-03T00:00:00Z",
+    "Address":"285 Ashdale Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0372030774,
+    "Longitude":-76.1008261109,
+    "Date":"2010-02-02T00:00:00Z",
+    "Address":"400-402 Brookford Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0509763498,
+    "Longitude":-76.1709488299,
+    "Date":"2010-02-01T00:00:00Z",
+    "Address":"515 Wilkinson St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0215770051,
+    "Longitude":-76.1615629468,
+    "Date":"2010-01-31T00:00:00Z",
+    "Address":"159 Clyde Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0321627476,
+    "Longitude":-76.1937629651,
+    "Date":"2010-01-28T00:00:00Z",
+    "Address":"Onondaga Creek Blvd",
+    "Zip":13219
+  },
+  {
+    "Latitude":43.0532686752,
+    "Longitude":-76.1040226155,
+    "Date":"2010-01-27T00:00:00Z",
+    "Address":"119 Seeley Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0592967625,
+    "Longitude":-76.1521583726,
+    "Date":"2010-01-26T00:00:00Z",
+    "Address":"North Salina St. & Ash St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0115710709,
+    "Longitude":-76.1498740318,
+    "Date":"2010-01-26T00:00:00Z",
+    "Address":"118 Conan St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0551306703,
+    "Longitude":-76.0894304243,
+    "Date":"2010-01-22T00:00:00Z",
+    "Address":"2943 East Erie Blvd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0562583817,
+    "Longitude":-76.1319682847,
+    "Date":"2010-01-22T00:00:00Z",
+    "Address":"Delhi St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0940118427,
+    "Longitude":-76.1740652611,
+    "Date":"2010-01-20T00:00:00Z",
+    "Address":"611 7th North St.",
+    "Zip":13088
+  },
+  {
+    "Latitude":43.0313380705,
+    "Longitude":-76.1447326258,
+    "Date":"2010-01-18T00:00:00Z",
+    "Address":"227-237 East Kennedy St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0452465331,
+    "Longitude":-76.158337617,
+    "Date":"2010-01-18T00:00:00Z",
+    "Address":"550 South West St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0797140046,
+    "Longitude":-76.1495770604,
+    "Date":"2010-01-17T00:00:00Z",
+    "Address":"400 Cadillac St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0459463308,
+    "Longitude":-76.1521843914,
+    "Date":"2010-01-16T00:00:00Z",
+    "Address":"441 South Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0525567869,
+    "Longitude":-76.1332203282,
+    "Date":"2010-01-13T00:00:00Z",
+    "Address":"308 Lodi St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0541566872,
+    "Longitude":-76.1497853063,
+    "Date":"2010-01-12T00:00:00Z",
+    "Address":"Hickory St. & North State St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0430841766,
+    "Longitude":-76.1517884589,
+    "Date":"2010-01-12T00:00:00Z",
+    "Address":"580 South Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.073286545,
+    "Longitude":-76.1546407439,
+    "Date":"2010-01-11T00:00:00Z",
+    "Address":"300 2nd North St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0513788992,
+    "Longitude":-76.179472536,
+    "Date":"2010-01-11T00:00:00Z",
+    "Address":"308 Lakeview Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0263779218,
+    "Longitude":-76.1396674087,
+    "Date":"2010-01-11T00:00:00Z",
+    "Address":"428 East Colvin St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0744601629,
+    "Longitude":-76.1100299725,
+    "Date":"2010-01-07T00:00:00Z",
+    "Address":"339 Norwood Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0542906314,
+    "Longitude":-76.1445560706,
+    "Date":"2010-01-05T00:00:00Z",
+    "Address":"North McBride St. & James St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0586487842,
+    "Longitude":-76.1809796827,
+    "Date":"2009-12-30T00:00:00Z",
+    "Address":"935 East Hiawatha Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0386301849,
+    "Longitude":-76.2743130697,
+    "Date":"2009-12-29T00:00:00Z",
+    "Address":"Kasson Rd. & Partridgeberry Dr.",
+    "Zip":13031
+  },
+  {
+    "Latitude":43.015380372,
+    "Longitude":-76.1450403776,
+    "Date":"2009-12-28T00:00:00Z",
+    "Address":"1121 Cannon St",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0331380328,
+    "Longitude":-76.1277423018,
+    "Date":"2009-12-27T00:00:00Z",
+    "Address":"Berkeley Dr & Dorset Rd",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0156186608,
+    "Longitude":-76.1481355156,
+    "Date":"2009-12-23T00:00:00Z",
+    "Address":"West Calthrop Ave & Midland Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0025013955,
+    "Longitude":-76.1428437779,
+    "Date":"2009-12-19T00:00:00Z",
+    "Address":"Roney Rd & South Salina St",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0553201566,
+    "Longitude":-76.1471384951,
+    "Date":"2009-12-17T00:00:00Z",
+    "Address":"511 Hickory St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0191417447,
+    "Longitude":-76.1558047576,
+    "Date":"2009-12-14T00:00:00Z",
+    "Address":"609 West Brighton Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0274998187,
+    "Longitude":-76.1828976694,
+    "Date":"2009-12-14T00:00:00Z",
+    "Address":"114 Fairdale Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0570045882,
+    "Longitude":-76.1928622753,
+    "Date":"2009-12-12T00:00:00Z",
+    "Address":"1014-1016 Milton Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":42.9861265537,
+    "Longitude":-76.143619826,
+    "Date":"2009-12-11T00:00:00Z",
+    "Address":"South Salina St & Parrish Ln",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.032562306,
+    "Longitude":-76.1842422832,
+    "Date":"2009-12-06T00:00:00Z",
+    "Address":"1830 Bellevue Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0641463894,
+    "Longitude":-76.1948902146,
+    "Date":"2009-12-06T00:00:00Z",
+    "Address":"500 Stat Fair Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0657980518,
+    "Longitude":-76.1974635949,
+    "Date":"2009-12-04T00:00:00Z",
+    "Address":"State Farm Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0657919075,
+    "Longitude":-76.1974693328,
+    "Date":"2009-12-04T00:00:00Z",
+    "Address":"State Fair Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0354324338,
+    "Longitude":-76.16727507,
+    "Date":"2009-12-03T00:00:00Z",
+    "Address":"143 Fitch St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0119873665,
+    "Longitude":-76.147997491,
+    "Date":"2009-12-03T00:00:00Z",
+    "Address":"114 Rill Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0429971329,
+    "Longitude":-76.158080947,
+    "Date":"2009-12-02T00:00:00Z",
+    "Address":"South West St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0332156656,
+    "Longitude":-76.1635894429,
+    "Date":"2009-12-01T00:00:00Z",
+    "Address":"701 Bellevue Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0759664259,
+    "Longitude":-76.1640301318,
+    "Date":"2009-11-29T00:00:00Z",
+    "Address":"Tex Simone Dr & Alliance Bank Parkway",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0531936128,
+    "Longitude":-76.1359925742,
+    "Date":"2009-11-29T00:00:00Z",
+    "Address":"522 Hawley Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.02383406,
+    "Longitude":-76.1284926427,
+    "Date":"2009-11-28T00:00:00Z",
+    "Address":"1301 East Colvin St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0811864721,
+    "Longitude":-76.1588098682,
+    "Date":"2009-11-26T00:00:00Z",
+    "Address":"6th North St & Hiawatha Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0820915782,
+    "Longitude":-76.1505230939,
+    "Date":"2009-11-23T00:00:00Z",
+    "Address":"200 Merrill St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0661745813,
+    "Longitude":-76.1049585147,
+    "Date":"2009-11-22T00:00:00Z",
+    "Address":"208-212 South Miduer Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0765811123,
+    "Longitude":-76.1622934824,
+    "Date":"2009-11-16T00:00:00Z",
+    "Address":"617 East Hiawatha Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0673808672,
+    "Longitude":-76.1547953603,
+    "Date":"2009-11-16T00:00:00Z",
+    "Address":"511 Kirkpatrick St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0237897531,
+    "Longitude":-76.1287289712,
+    "Date":"2009-11-12T00:00:00Z",
+    "Address":"1100 Comstock Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0190663376,
+    "Longitude":-76.1766342543,
+    "Date":"2009-11-10T00:00:00Z",
+    "Address":"McDonald Rd & Reinman Rd",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0475144001,
+    "Longitude":-76.1000610902,
+    "Date":"2009-11-09T00:00:00Z",
+    "Address":"Milnor Ave & Ball Ave",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0495972279,
+    "Longitude":-76.1891300972,
+    "Date":"2009-11-03T00:00:00Z",
+    "Address":"513 Hamilton St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0393835594,
+    "Longitude":-76.0935631068,
+    "Date":"2009-10-23T00:00:00Z",
+    "Address":"Kimber Rd. & Euclid Ave",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0515397136,
+    "Longitude":-76.1869199512,
+    "Date":"2009-10-23T00:00:00Z",
+    "Address":"117 Cayuga St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0378196801,
+    "Longitude":-76.1771704337,
+    "Date":"2009-10-23T00:00:00Z",
+    "Address":"Herriman St & Fitch St",
+    "Zip":13204
+  },
+  {
+    "Latitude":42.9870721977,
+    "Longitude":-76.1439430436,
+    "Date":"2009-10-09T00:00:00Z",
+    "Address":"Spawlding Ave & South Salina St",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0067758626,
+    "Longitude":-76.1472953819,
+    "Date":"2009-10-06T00:00:00Z",
+    "Address":"3419 Midland Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.03985304,
+    "Longitude":-76.1188079811,
+    "Date":"2009-10-05T00:00:00Z",
+    "Address":"113 Concord Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0415594276,
+    "Longitude":-76.1419580701,
+    "Date":"2009-10-05T00:00:00Z",
+    "Address":"117 Monroe St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0259968163,
+    "Longitude":-76.1193737837,
+    "Date":"2009-10-03T00:00:00Z",
+    "Address":"Kensington Pl & Meadowbrook Dr",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0389169278,
+    "Longitude":-76.1773210448,
+    "Date":"2009-10-01T00:00:00Z",
+    "Address":"100 Herriman St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0112046725,
+    "Longitude":-76.1280165823,
+    "Date":"2009-09-26T00:00:00Z",
+    "Address":"294 Ainsley Dr",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0393779436,
+    "Longitude":-76.1316031232,
+    "Date":"2009-09-13T00:00:00Z",
+    "Address":"University Pl. & College Pl",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0111711958,
+    "Longitude":-76.1301315841,
+    "Date":"2009-09-11T00:00:00Z",
+    "Address":"230 Ainsley Dr",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0247167287,
+    "Longitude":-76.1218240223,
+    "Date":"2009-09-11T00:00:00Z",
+    "Address":"Lancaster Ave & Meadowbrook Dr",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0335082328,
+    "Longitude":-76.1229418424,
+    "Date":"2009-09-07T00:00:00Z",
+    "Address":"928-930 Lancaster Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0714613963,
+    "Longitude":-76.1655394422,
+    "Date":"2009-09-05T00:00:00Z",
+    "Address":"Park St & Exchange St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0392582646,
+    "Longitude":-76.1678262073,
+    "Date":"2009-09-04T00:00:00Z",
+    "Address":"121 Davis St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0751342728,
+    "Longitude":-76.1100824048,
+    "Date":"2009-09-04T00:00:00Z",
+    "Address":"367 Norwood Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0393820419,
+    "Longitude":-76.1675446726,
+    "Date":"2009-08-24T00:00:00Z",
+    "Address":"108 Davis St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.03985304,
+    "Longitude":-76.1188079811,
+    "Date":"2009-08-23T00:00:00Z",
+    "Address":"113 Concord Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0468896766,
+    "Longitude":-76.1103524475,
+    "Date":"2009-08-20T00:00:00Z",
+    "Address":"245 Fenway Dr",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0465185779,
+    "Longitude":-76.1754091398,
+    "Date":"2009-08-19T00:00:00Z",
+    "Address":"106 Magnolia St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0591619527,
+    "Longitude":-76.1421616036,
+    "Date":"2009-08-19T00:00:00Z",
+    "Address":"207 Douglas St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0531477086,
+    "Longitude":-76.1331128737,
+    "Date":"2009-08-17T00:00:00Z",
+    "Address":"Manilla St & Oak St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0368091848,
+    "Longitude":-76.0999536763,
+    "Date":"2009-08-04T00:00:00Z",
+    "Address":"418 Brookford Rd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0355927927,
+    "Longitude":-76.1137715565,
+    "Date":"2009-07-28T00:00:00Z",
+    "Address":"967 Westmoreland Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0268026381,
+    "Longitude":-76.1136202906,
+    "Date":"2009-07-28T00:00:00Z",
+    "Address":"1418 Westmoreland Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0519590994,
+    "Longitude":-76.1706234452,
+    "Date":"2009-07-23T00:00:00Z",
+    "Address":"Park St. & North Geddes St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0353944389,
+    "Longitude":-76.178343879,
+    "Date":"2009-07-22T00:00:00Z",
+    "Address":"317 Lydell St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0334926218,
+    "Longitude":-76.1874228761,
+    "Date":"2009-07-22T00:00:00Z",
+    "Address":"Velasko Rd. & Onondaga Blvd.",
+    "Zip":13219
+  },
+  {
+    "Latitude":43.0509520867,
+    "Longitude":-76.0963560386,
+    "Date":"2009-07-21T00:00:00Z",
+    "Address":"443 Mountainview Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0502473979,
+    "Longitude":-76.1320297248,
+    "Date":"2009-07-20T00:00:00Z",
+    "Address":"East Water St. & Walnut Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0611881426,
+    "Longitude":-76.1701878568,
+    "Date":"2009-07-14T00:00:00Z",
+    "Address":"Bear St. & VanRenssalear St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0377783356,
+    "Longitude":-76.1772426696,
+    "Date":"2009-07-13T00:00:00Z",
+    "Address":"200 Herriman St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0154952492,
+    "Longitude":-76.1278460105,
+    "Date":"2009-07-11T00:00:00Z",
+    "Address":"Thayer St. & Jamesville Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":42.9919882552,
+    "Longitude":-76.1374873774,
+    "Date":"2009-07-09T00:00:00Z",
+    "Address":"110 Windemere Rd.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0483279348,
+    "Longitude":-76.1194719288,
+    "Date":"2009-07-09T00:00:00Z",
+    "Address":"1815 East Fayette St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0462729526,
+    "Longitude":-76.1733081272,
+    "Date":"2009-07-08T00:00:00Z",
+    "Address":"1153 West Fayette St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0493075905,
+    "Longitude":-76.1215516506,
+    "Date":"2009-07-08T00:00:00Z",
+    "Address":"East Erie Blvd & Columbus Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0715828897,
+    "Longitude":-76.2064631411,
+    "Date":"2009-07-07T00:00:00Z",
+    "Address":"State Fair Blvd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0493075905,
+    "Longitude":-76.1215516506,
+    "Date":"2009-06-29T00:00:00Z",
+    "Address":"East Erie Blvd & Columbus Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0532374238,
+    "Longitude":-76.1254725813,
+    "Date":"2009-06-19T00:00:00Z",
+    "Address":"1002 Burnet Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0385448503,
+    "Longitude":-76.0856390343,
+    "Date":"2009-06-19T00:00:00Z",
+    "Address":"Lockwood Rd. & Edgemont Dr.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0354324338,
+    "Longitude":-76.16727507,
+    "Date":"2009-06-05T00:00:00Z",
+    "Address":"401 Smith St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0475144001,
+    "Longitude":-76.1000610902,
+    "Date":"2009-05-28T00:00:00Z",
+    "Address":"Milnor Ave & Ball Ave",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0353771804,
+    "Longitude":-76.1369190822,
+    "Date":"2009-05-27T00:00:00Z",
+    "Address":"Forestry Dr.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0629912784,
+    "Longitude":-76.0915325524,
+    "Date":"2009-05-26T00:00:00Z",
+    "Address":"Burns Ave & Caleb Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0611881426,
+    "Longitude":-76.1701878568,
+    "Date":"2009-05-24T00:00:00Z",
+    "Address":"West Beard St. & VanRenssalear St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0395863667,
+    "Longitude":-76.1056607056,
+    "Date":"2009-05-15T00:00:00Z",
+    "Address":"207 Bradford Pkwy",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0344436394,
+    "Longitude":-76.0931514325,
+    "Date":"2009-05-14T00:00:00Z",
+    "Address":"450 Kimber Rd.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0645713867,
+    "Longitude":-76.1234707827,
+    "Date":"2009-05-13T00:00:00Z",
+    "Address":"1658 James St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0378196801,
+    "Longitude":-76.1771704337,
+    "Date":"2009-05-12T00:00:00Z",
+    "Address":"Herriman St. & Fitch St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0332666177,
+    "Longitude":-76.1624303295,
+    "Date":"2009-05-12T00:00:00Z",
+    "Address":"601 Bellevue Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0353944389,
+    "Longitude":-76.178343879,
+    "Date":"2009-05-11T00:00:00Z",
+    "Address":"317 Lydell St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0387049249,
+    "Longitude":-76.1771566044,
+    "Date":"2009-05-10T00:00:00Z",
+    "Address":"121 Herriman St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0450780956,
+    "Longitude":-76.1197144037,
+    "Date":"2009-05-08T00:00:00Z",
+    "Address":"328 Westcott St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.038742887,
+    "Longitude":-76.1773090365,
+    "Date":"2009-05-06T00:00:00Z",
+    "Address":"116 Herriman Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.038742887,
+    "Longitude":-76.1773090365,
+    "Date":"2009-05-06T00:00:00Z",
+    "Address":"116 Herriman Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0552500472,
+    "Longitude":-76.1889854111,
+    "Date":"2009-05-06T00:00:00Z",
+    "Address":"Harbor St. & Emerson Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0481935125,
+    "Longitude":-76.1126605865,
+    "Date":"2009-05-04T00:00:00Z",
+    "Address":"East Fayette St. & Croly St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0552500472,
+    "Longitude":-76.1889854111,
+    "Date":"2009-05-02T00:00:00Z",
+    "Address":"Harbor St. & Emerson Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0778081379,
+    "Longitude":-76.1394596341,
+    "Date":"2009-04-30T00:00:00Z",
+    "Address":"Wadsworth St. & Huntley St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0469469831,
+    "Longitude":-76.1339586427,
+    "Date":"2009-04-29T00:00:00Z",
+    "Address":"1115 East Genesee St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0550170155,
+    "Longitude":-76.1862979988,
+    "Date":"2009-04-27T00:00:00Z",
+    "Address":"1970 West Fayette St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0544117064,
+    "Longitude":-76.1867359862,
+    "Date":"2009-04-27T00:00:00Z",
+    "Address":"West Fayette St. & St. Marks Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0389537232,
+    "Longitude":-76.1772486768,
+    "Date":"2009-04-17T00:00:00Z",
+    "Address":"Herriman St. & Grand Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0578364698,
+    "Longitude":-76.1910106041,
+    "Date":"2009-04-16T00:00:00Z",
+    "Address":"825 Emerson Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0389537232,
+    "Longitude":-76.1772486768,
+    "Date":"2009-04-16T00:00:00Z",
+    "Address":"Herriman St. & Grand Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0378196801,
+    "Longitude":-76.1771704337,
+    "Date":"2009-04-16T00:00:00Z",
+    "Address":"Herriman St. & Fitch  St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0273704253,
+    "Longitude":-76.1583853854,
+    "Date":"2009-04-15T00:00:00Z",
+    "Address":"1100 South Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0320527428,
+    "Longitude":-76.1100580206,
+    "Date":"2009-04-13T00:00:00Z",
+    "Address":"Sherbourne Rd. & Crawford Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0320527428,
+    "Longitude":-76.1100580206,
+    "Date":"2009-04-09T00:00:00Z",
+    "Address":"Sherbourne Rd. & Crawford Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0273704253,
+    "Longitude":-76.1583853854,
+    "Date":"2009-04-06T00:00:00Z",
+    "Address":"1100 South Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0389432215,
+    "Longitude":-76.1078376473,
+    "Date":"2009-04-02T00:00:00Z",
+    "Address":"304 Scott Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.036473886,
+    "Longitude":-76.1020679633,
+    "Date":"2009-04-01T00:00:00Z",
+    "Address":"401 Bradford Pkwy",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0607169149,
+    "Longitude":-76.1576328133,
+    "Date":"2009-03-31T00:00:00Z",
+    "Address":"800 North Clinton St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0787558264,
+    "Longitude":-76.1606161708,
+    "Date":"2009-03-26T00:00:00Z",
+    "Address":"Hiawatha Blvd. & 4th North St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0364592279,
+    "Longitude":-76.1784893843,
+    "Date":"2009-03-26T00:00:00Z",
+    "Address":"Hartson St. & Lydell St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0273704253,
+    "Longitude":-76.1583853854,
+    "Date":"2009-03-18T00:00:00Z",
+    "Address":"1100 South Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":42.9853670796,
+    "Longitude":-76.1436621146,
+    "Date":"2009-03-15T00:00:00Z",
+    "Address":"South Salina & Dorwin Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":42.9853670796,
+    "Longitude":-76.1436621146,
+    "Date":"2009-03-15T00:00:00Z",
+    "Address":"South Salina & Dorwin Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0652045582,
+    "Longitude":-76.1300623095,
+    "Date":"2009-03-12T00:00:00Z",
+    "Address":"115 Wendell Ter.",
+    "Zip":13203
+  },
+  {
+    "Latitude":42.9962112585,
+    "Longitude":-76.1371434089,
+    "Date":"2009-03-06T00:00:00Z",
+    "Address":"118 Thurlow Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":42.9969443437,
+    "Longitude":-76.1378949571,
+    "Date":"2009-03-05T00:00:00Z",
+    "Address":"176 Sunrise Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0306943671,
+    "Longitude":-76.1082281323,
+    "Date":"2009-03-03T00:00:00Z",
+    "Address":"211 Croyden Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0305509302,
+    "Longitude":-76.1117357445,
+    "Date":"2009-02-28T00:00:00Z",
+    "Address":"210 Nottingham Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0501543809,
+    "Longitude":-76.1296703256,
+    "Date":"2009-02-24T00:00:00Z",
+    "Address":"1300 East Water St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0357781409,
+    "Longitude":-76.1393048168,
+    "Date":"2009-02-23T00:00:00Z",
+    "Address":"800 East Raynor Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0630252083,
+    "Longitude":-76.1602164243,
+    "Date":"2009-02-22T00:00:00Z",
+    "Address":"North Clinton St. & West Court St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0552500472,
+    "Longitude":-76.1889854111,
+    "Date":"2009-02-22T00:00:00Z",
+    "Address":"Emerson Ave & Harbor St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0552500472,
+    "Longitude":-76.1889854111,
+    "Date":"2009-02-20T00:00:00Z",
+    "Address":"Emerson Ave & Harbor St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0630252083,
+    "Longitude":-76.1602164243,
+    "Date":"2009-02-20T00:00:00Z",
+    "Address":"North Clinton St. & West Court St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0476582524,
+    "Longitude":-76.1399438941,
+    "Date":"2009-02-18T00:00:00Z",
+    "Address":"Wellington Pl. & Forman Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.050210055,
+    "Longitude":-76.1297320354,
+    "Date":"2009-02-17T00:00:00Z",
+    "Address":"East Water St. & Pine St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0029413245,
+    "Longitude":-76.1297951237,
+    "Date":"2009-02-17T00:00:00Z",
+    "Address":"985 East Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0570738732,
+    "Longitude":-76.111374341,
+    "Date":"2009-02-15T00:00:00Z",
+    "Address":"1811-1817 Burnet Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0486376121,
+    "Longitude":-76.152545814,
+    "Date":"2009-02-15T00:00:00Z",
+    "Address":"123 West Fayette St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0036509139,
+    "Longitude":-76.1303505039,
+    "Date":"2009-02-12T00:00:00Z",
+    "Address":"916 East Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0503491638,
+    "Longitude":-76.1150380829,
+    "Date":"2009-02-11T00:00:00Z",
+    "Address":"200 Westmoreland Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0576221294,
+    "Longitude":-76.190742181,
+    "Date":"2009-02-10T00:00:00Z",
+    "Address":"821 Emerson Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0757839286,
+    "Longitude":-76.1467108589,
+    "Date":"2009-02-09T00:00:00Z",
+    "Address":"248 Hood Dr.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0466931073,
+    "Longitude":-76.1474136702,
+    "Date":"2009-02-08T00:00:00Z",
+    "Address":"555 South State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0364461769,
+    "Longitude":-76.1798718033,
+    "Date":"2009-02-07T00:00:00Z",
+    "Address":"412 Hartson St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0505451373,
+    "Longitude":-76.153542558,
+    "Date":"2009-02-03T00:00:00Z",
+    "Address":"South Clinton St. & West Water St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0365920149,
+    "Longitude":-76.0988759845,
+    "Date":"2009-02-02T00:00:00Z",
+    "Address":"438 Brookford Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0238634883,
+    "Longitude":-76.1793811038,
+    "Date":"2009-02-02T00:00:00Z",
+    "Address":"1155 Glenwood Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0822195078,
+    "Longitude":-76.150836894,
+    "Date":"2009-02-02T00:00:00Z",
+    "Address":"219-223 Merrill St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0483292579,
+    "Longitude":-76.1195802712,
+    "Date":"2009-02-01T00:00:00Z",
+    "Address":"1811 East Fayette St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0573793219,
+    "Longitude":-76.1489813385,
+    "Date":"2009-01-31T00:00:00Z",
+    "Address":"East Laurel St. & North Townsend St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0503278372,
+    "Longitude":-76.1777924449,
+    "Date":"2009-01-30T00:00:00Z",
+    "Address":"207 Lakeview Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0502871475,
+    "Longitude":-76.1775923165,
+    "Date":"2009-01-29T00:00:00Z",
+    "Address":"Lakeview Ave & Richmond Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0712768753,
+    "Longitude":-76.1324408076,
+    "Date":"2009-01-29T00:00:00Z",
+    "Address":"634 Mertens Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0276762838,
+    "Longitude":-76.1401384882,
+    "Date":"2009-01-28T00:00:00Z",
+    "Address":"East Of Rt. 81",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0385755184,
+    "Longitude":-76.1087344629,
+    "Date":"2009-01-27T00:00:00Z",
+    "Address":"1221 Meadowbrook Dr.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0486377264,
+    "Longitude":-76.152597225,
+    "Date":"2009-01-27T00:00:00Z",
+    "Address":"127-129 West Fayette St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0427079803,
+    "Longitude":-76.0921021845,
+    "Date":"2009-01-26T00:00:00Z",
+    "Address":"East Genesee St. & Albert Rd.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0547080834,
+    "Longitude":-76.1885442755,
+    "Date":"2009-01-26T00:00:00Z",
+    "Address":"700 Emerson Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0691088775,
+    "Longitude":-76.1557625056,
+    "Date":"2009-01-25T00:00:00Z",
+    "Address":"806 Carbon St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0475143001,
+    "Longitude":-76.0890139954,
+    "Date":"2009-01-22T00:00:00Z",
+    "Address":"Carton Dr. & Salt Springs Rd.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.06301387,
+    "Longitude":-76.1109331047,
+    "Date":"2009-01-22T00:00:00Z",
+    "Address":"336 Forest Hill Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0596552578,
+    "Longitude":-76.1198959929,
+    "Date":"2009-01-22T00:00:00Z",
+    "Address":"706 Hixson Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0213546013,
+    "Longitude":-76.1319521513,
+    "Date":"2009-01-21T00:00:00Z",
+    "Address":"Lorraine Ave. & Vincent St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0271729489,
+    "Longitude":-76.1987942902,
+    "Date":"2009-01-20T00:00:00Z",
+    "Address":"212 Highridge Dr.",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0364702281,
+    "Longitude":-76.1102450227,
+    "Date":"2009-01-20T00:00:00Z",
+    "Address":"Meadowbrook Dr. & Euclid Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0481483589,
+    "Longitude":-76.1753718599,
+    "Date":"2009-01-20T00:00:00Z",
+    "Address":"1000 West Erie Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0609300075,
+    "Longitude":-76.1005732992,
+    "Date":"2009-01-19T00:00:00Z",
+    "Address":"Mosley Dr. & Caleb Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.048116976,
+    "Longitude":-76.1759011761,
+    "Date":"2009-01-19T00:00:00Z",
+    "Address":"1025 West  Erie Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0404279538,
+    "Longitude":-76.0860396388,
+    "Date":"2009-01-19T00:00:00Z",
+    "Address":"504 Hillsboro Pkwy.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.054474407,
+    "Longitude":-76.0968315063,
+    "Date":"2009-01-15T00:00:00Z",
+    "Address":"West Erie Blvd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0344749597,
+    "Longitude":-76.1569659584,
+    "Date":"2009-01-14T00:00:00Z",
+    "Address":"Lincoln Ave. & Clover St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0465716768,
+    "Longitude":-76.1125828392,
+    "Date":"2009-01-13T00:00:00Z",
+    "Address":"248 Croly St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0699210799,
+    "Longitude":-76.1652820782,
+    "Date":"2009-01-10T00:00:00Z",
+    "Address":"201 Wolf St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0038064051,
+    "Longitude":-76.1302822986,
+    "Date":"2009-01-07T00:00:00Z",
+    "Address":"911 East Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0439591554,
+    "Longitude":-76.1742574899,
+    "Date":"2009-01-06T00:00:00Z",
+    "Address":"227 Magnolia St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0439591554,
+    "Longitude":-76.1742574899,
+    "Date":"2009-01-05T00:00:00Z",
+    "Address":"227 Magnolia St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0279101892,
+    "Longitude":-76.190196105,
+    "Date":"2009-01-02T00:00:00Z",
+    "Address":"1900 Glenwood Ave.",
+    "Zip":13215
+  },
+  {
+    "Latitude":42.9870086479,
+    "Longitude":-76.1473060698,
+    "Date":"2009-01-01T00:00:00Z",
+    "Address":"190 Spaulding Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0443140854,
+    "Longitude":-76.1818452834,
+    "Date":"2009-01-01T00:00:00Z",
+    "Address":"254 Coleridge Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0519595916,
+    "Longitude":-76.1723290813,
+    "Date":"2008-12-30T00:00:00Z",
+    "Address":"725 Park Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.021499681,
+    "Longitude":-76.1284354625,
+    "Date":"2008-12-26T00:00:00Z",
+    "Address":"Comstock Av. & Vincent St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0412543497,
+    "Longitude":-76.1510135426,
+    "Date":"2008-12-26T00:00:00Z",
+    "Address":"650 South Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0415965553,
+    "Longitude":-76.171728618,
+    "Date":"2008-12-26T00:00:00Z",
+    "Address":"631 S Geddes St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.028630189,
+    "Longitude":-76.1955428936,
+    "Date":"2008-12-24T00:00:00Z",
+    "Address":"100 Huntington Ave",
+    "Zip":13215
+  },
+  {
+    "Latitude":42.9943358881,
+    "Longitude":-76.1377807906,
+    "Date":"2008-12-23T00:00:00Z",
+    "Address":"300 Sunrise Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0012483719,
+    "Longitude":-76.1370993673,
+    "Date":"2008-12-23T00:00:00Z",
+    "Address":"East Seneca Tpke & Maywood Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.019812629,
+    "Longitude":-76.1692764366,
+    "Date":"2008-12-23T00:00:00Z",
+    "Address":"608 Glenwood Av.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0495332559,
+    "Longitude":-76.1511747024,
+    "Date":"2008-12-22T00:00:00Z",
+    "Address":"150 East Washington St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.044316536,
+    "Longitude":-76.1475210897,
+    "Date":"2008-12-20T00:00:00Z",
+    "Address":"Harrison St. & State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0213143401,
+    "Longitude":-76.1328757351,
+    "Date":"2008-12-19T00:00:00Z",
+    "Address":"Vincent St. & Jamesville Av",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0557239108,
+    "Longitude":-76.1622279332,
+    "Date":"2008-12-18T00:00:00Z",
+    "Address":"Evans St & Maltbie",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0527220481,
+    "Longitude":-76.0940727437,
+    "Date":"2008-12-18T00:00:00Z",
+    "Address":"Lime St. & Northway St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0584578105,
+    "Longitude":-76.1812347264,
+    "Date":"2008-12-13T00:00:00Z",
+    "Address":"959  West Hiawatha Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.035718014,
+    "Longitude":-76.1616034742,
+    "Date":"2008-12-13T00:00:00Z",
+    "Address":"200 Rich St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0548061397,
+    "Longitude":-76.0918754933,
+    "Date":"2008-12-12T00:00:00Z",
+    "Address":"2870 Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.054474407,
+    "Longitude":-76.0968315063,
+    "Date":"2008-12-11T00:00:00Z",
+    "Address":"East Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0340481193,
+    "Longitude":-76.1704797886,
+    "Date":"2008-12-11T00:00:00Z",
+    "Address":"1119 West Onondaga St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0113314324,
+    "Longitude":-76.1477659418,
+    "Date":"2008-12-10T00:00:00Z",
+    "Address":"Belle Ave & Midland Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0715519743,
+    "Longitude":-76.1287862211,
+    "Date":"2008-12-10T00:00:00Z",
+    "Address":"501 Bradley Pkwy",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0637414839,
+    "Longitude":-76.0928998165,
+    "Date":"2008-12-09T00:00:00Z",
+    "Address":"348 Cloveridge Dr",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0453592931,
+    "Longitude":-76.1596230243,
+    "Date":"2008-12-08T00:00:00Z",
+    "Address":"303 Tully St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0348896227,
+    "Longitude":-76.1212212159,
+    "Date":"2008-12-06T00:00:00Z",
+    "Address":"119-135 Westminster Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0501604941,
+    "Longitude":-76.1689450338,
+    "Date":"2008-12-06T00:00:00Z",
+    "Address":"222 Richmond Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0298533662,
+    "Longitude":-76.1437155726,
+    "Date":"2008-12-05T00:00:00Z",
+    "Address":"215 Woodland Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0610095161,
+    "Longitude":-76.1568493531,
+    "Date":"2008-12-04T00:00:00Z",
+    "Address":"128 Spencer St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0374537368,
+    "Longitude":-76.1435525647,
+    "Date":"2008-12-04T00:00:00Z",
+    "Address":"306 Van Buren St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0301697027,
+    "Longitude":-76.1903797257,
+    "Date":"2008-12-03T00:00:00Z",
+    "Address":"101 Archer Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0606435186,
+    "Longitude":-76.15766189,
+    "Date":"2008-12-03T00:00:00Z",
+    "Address":"North Clinton St & Spencer St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0286929594,
+    "Longitude":-76.1934857573,
+    "Date":"2008-12-03T00:00:00Z",
+    "Address":"114 Winkworth Pkwy",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0299181722,
+    "Longitude":-76.164341484,
+    "Date":"2008-12-03T00:00:00Z",
+    "Address":"Cheney St & Onondaga Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0275904215,
+    "Longitude":-76.1419863738,
+    "Date":"2008-12-02T00:00:00Z",
+    "Address":"Garfield Ave & Garfield Pl",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.048962824,
+    "Longitude":-76.1661749777,
+    "Date":"2008-12-02T00:00:00Z",
+    "Address":"100 Van Rensselear St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.061007053,
+    "Longitude":-76.1609944614,
+    "Date":"2008-11-30T00:00:00Z",
+    "Address":"300 West Kirkpatrick St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0485970688,
+    "Longitude":-76.14926185,
+    "Date":"2008-11-30T00:00:00Z",
+    "Address":"300 East Fayette St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0486230596,
+    "Longitude":-76.1474907355,
+    "Date":"2008-11-30T00:00:00Z",
+    "Address":"300 South State St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0353522202,
+    "Longitude":-76.1784908741,
+    "Date":"2008-11-28T00:00:00Z",
+    "Address":"318 Lydell St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0532675532,
+    "Longitude":-76.1415272498,
+    "Date":"2008-11-26T00:00:00Z",
+    "Address":"316 Hawley Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0505169357,
+    "Longitude":-76.1536172837,
+    "Date":"2008-11-21T00:00:00Z",
+    "Address":"100 South Clinton St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0536945077,
+    "Longitude":-76.1849588506,
+    "Date":"2008-11-19T00:00:00Z",
+    "Address":"1900 West Fayette St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0366891791,
+    "Longitude":-76.1617914756,
+    "Date":"2008-11-12T00:00:00Z",
+    "Address":"Rich St & White St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0526966266,
+    "Longitude":-76.179431448,
+    "Date":"2008-11-10T00:00:00Z",
+    "Address":"1312 West Genesee St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0533356126,
+    "Longitude":-76.1276497202,
+    "Date":"2008-11-03T00:00:00Z",
+    "Address":"321 North Beech St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0522575543,
+    "Longitude":-76.1850960437,
+    "Date":"2008-10-30T00:00:00Z",
+    "Address":"West Genesee St. & North Lowell Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0540415397,
+    "Longitude":-76.0990592333,
+    "Date":"2008-10-30T00:00:00Z",
+    "Address":"2646-2700 East Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0602488919,
+    "Longitude":-76.1537788907,
+    "Date":"2008-10-27T00:00:00Z",
+    "Address":"East Division St. & Lock Aly.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0505564834,
+    "Longitude":-76.1555075846,
+    "Date":"2008-10-27T00:00:00Z",
+    "Address":"West Water St. & Franklin St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0480378738,
+    "Longitude":-76.1569352523,
+    "Date":"2008-10-23T00:00:00Z",
+    "Address":"531 Walton St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0173316928,
+    "Longitude":-76.159302844,
+    "Date":"2008-10-21T00:00:00Z",
+    "Address":"162 Bertram Pl.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0568681623,
+    "Longitude":-76.1501863488,
+    "Date":"2008-10-19T00:00:00Z",
+    "Address":"East Laurel St. & Prospect Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":42.9882246297,
+    "Longitude":-76.1399570905,
+    "Date":"2008-10-18T00:00:00Z",
+    "Address":"Maplewood Ave & Coldbrook Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.056131235,
+    "Longitude":-76.1896031186,
+    "Date":"2008-10-18T00:00:00Z",
+    "Address":"Emerson Ave & Lewis St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0610369278,
+    "Longitude":-76.1779045062,
+    "Date":"2008-10-12T00:00:00Z",
+    "Address":"835 Hiawatha Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0016684292,
+    "Longitude":-76.1428602776,
+    "Date":"2008-10-10T00:00:00Z",
+    "Address":"4710 South Salina St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0366223396,
+    "Longitude":-76.1435738405,
+    "Date":"2008-10-08T00:00:00Z",
+    "Address":"1427-1429 South McBride St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0425392409,
+    "Longitude":-76.1006309454,
+    "Date":"2008-10-08T00:00:00Z",
+    "Address":"3012 East Geneses St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0536706231,
+    "Longitude":-76.0933387544,
+    "Date":"2008-10-07T00:00:00Z",
+    "Address":"123 Polk St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0422280274,
+    "Longitude":-76.1575456355,
+    "Date":"2008-10-05T00:00:00Z",
+    "Address":"807 South West St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0630571604,
+    "Longitude":-76.1109370644,
+    "Date":"2008-10-05T00:00:00Z",
+    "Address":"334 Forest Hill Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0686774947,
+    "Longitude":-76.1100546525,
+    "Date":"2008-10-01T00:00:00Z",
+    "Address":"James St. & Woodbine Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0792714577,
+    "Longitude":-76.1603056035,
+    "Date":"2008-10-01T00:00:00Z",
+    "Address":"819 East Hiawatha Blvd.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0481376258,
+    "Longitude":-76.173311099,
+    "Date":"2008-09-26T00:00:00Z",
+    "Address":"912 West Erie Blvd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0686774947,
+    "Longitude":-76.1100546525,
+    "Date":"2008-09-25T00:00:00Z",
+    "Address":"James St. Woodbine Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0465181961,
+    "Longitude":-76.148748742,
+    "Date":"2008-09-25T00:00:00Z",
+    "Address":"411 Montgomery St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0088486098,
+    "Longitude":-76.1425429195,
+    "Date":"2008-09-24T00:00:00Z",
+    "Address":"Dawes Ave & South Salina St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0470420099,
+    "Longitude":-76.1493388829,
+    "Date":"2008-09-24T00:00:00Z",
+    "Address":"Montgomery St. & Jefferson St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0519502066,
+    "Longitude":-76.1550547231,
+    "Date":"2008-09-22T00:00:00Z",
+    "Address":"West Genesee St. & Franklin St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0599359337,
+    "Longitude":-76.1966940154,
+    "Date":"2008-09-21T00:00:00Z",
+    "Address":"Emerson Ave & West Erie Blvd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0781155464,
+    "Longitude":-76.1669524288,
+    "Date":"2008-09-20T00:00:00Z",
+    "Address":"Stadium",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0580262635,
+    "Longitude":-76.1913598246,
+    "Date":"2008-09-16T00:00:00Z",
+    "Address":"829 Emerson Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0591198857,
+    "Longitude":-76.197749444,
+    "Date":"2008-09-11T00:00:00Z",
+    "Address":"Milton Ave & West End Dr.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0633173739,
+    "Longitude":-76.1489448477,
+    "Date":"2008-09-09T00:00:00Z",
+    "Address":"658 East Division St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0611881426,
+    "Longitude":-76.1701878568,
+    "Date":"2008-09-04T00:00:00Z",
+    "Address":"VanRensselear & West Bear St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0424375977,
+    "Longitude":-76.1740444116,
+    "Date":"2008-09-03T00:00:00Z",
+    "Address":"Fowler High School",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0484140378,
+    "Longitude":-76.1092870053,
+    "Date":"2008-09-02T00:00:00Z",
+    "Address":"2507 East Fayette Sat.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0669539386,
+    "Longitude":-76.1572509086,
+    "Date":"2008-08-28T00:00:00Z",
+    "Address":"519 Danforth St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0669539386,
+    "Longitude":-76.1572509086,
+    "Date":"2008-08-21T00:00:00Z",
+    "Address":"519 Danforth St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0669098789,
+    "Longitude":-76.1572836162,
+    "Date":"2008-08-17T00:00:00Z",
+    "Address":"515/519 Danforth St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.053861118,
+    "Longitude":-76.1477727619,
+    "Date":"2008-08-12T00:00:00Z",
+    "Address":"East Willow St. & Prospect Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0434435762,
+    "Longitude":-76.1115184752,
+    "Date":"2008-08-10T00:00:00Z",
+    "Address":"217 Scottholm Ter.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0456332129,
+    "Longitude":-76.1924148852,
+    "Date":"2008-08-09T00:00:00Z",
+    "Address":"206 Myrtle St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0658882808,
+    "Longitude":-76.1613886092,
+    "Date":"2008-08-05T00:00:00Z",
+    "Address":"304 Sunset Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0749899702,
+    "Longitude":-76.1352698295,
+    "Date":"2008-08-04T00:00:00Z",
+    "Address":"209 Kenwick Dr.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0591841316,
+    "Longitude":-76.1575523186,
+    "Date":"2008-08-02T00:00:00Z",
+    "Address":"232 West Division st.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0029898393,
+    "Longitude":-76.1532779925,
+    "Date":"2008-07-30T00:00:00Z",
+    "Address":"1524 Valley Dr.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0565979784,
+    "Longitude":-76.1575401265,
+    "Date":"2008-07-24T00:00:00Z",
+    "Address":"Solar & Plum St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0206148589,
+    "Longitude":-76.1513457688,
+    "Date":"2008-07-22T00:00:00Z",
+    "Address":"300 Hope Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0500878228,
+    "Longitude":-76.1954763654,
+    "Date":"2008-07-22T00:00:00Z",
+    "Address":"640 Myrtle St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0193540955,
+    "Longitude":-76.125886338,
+    "Date":"2008-07-16T00:00:00Z",
+    "Address":"606 Thurber St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0493442225,
+    "Longitude":-76.0943645513,
+    "Date":"2008-07-09T00:00:00Z",
+    "Address":"513 Fayette Blvd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0542487318,
+    "Longitude":-76.1898519406,
+    "Date":"2008-07-03T00:00:00Z",
+    "Address":"204 Herkimer St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0475243602,
+    "Longitude":-76.1009757017,
+    "Date":"2008-07-01T00:00:00Z",
+    "Address":"175 Milnor St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0536876789,
+    "Longitude":-76.1021477779,
+    "Date":"2008-07-01T00:00:00Z",
+    "Address":"2564 East Erie Blvd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0662564948,
+    "Longitude":-76.1619791171,
+    "Date":"2008-06-27T00:00:00Z",
+    "Address":"115 Turtle St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0402660923,
+    "Longitude":-76.0856257113,
+    "Date":"2008-06-26T00:00:00Z",
+    "Address":"518 Hillsboro Pkwy",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0494005257,
+    "Longitude":-76.1420723649,
+    "Date":"2008-06-23T00:00:00Z",
+    "Address":"700 East Washington St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0702904122,
+    "Longitude":-76.1261889972,
+    "Date":"2008-06-20T00:00:00Z",
+    "Address":"250 Wheaton Rd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0532290137,
+    "Longitude":-76.1384412934,
+    "Date":"2008-06-16T00:00:00Z",
+    "Address":"422 Hawley Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0533281063,
+    "Longitude":-76.1052101521,
+    "Date":"2008-06-16T00:00:00Z",
+    "Address":"2410 East Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":42.9889661547,
+    "Longitude":-76.1366012903,
+    "Date":"2008-06-14T00:00:00Z",
+    "Address":"305 Maplewood Ave",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0205680499,
+    "Longitude":-76.1655890215,
+    "Date":"2008-06-12T00:00:00Z",
+    "Address":"718 Summit Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.016944244,
+    "Longitude":-76.1256329752,
+    "Date":"2008-06-11T00:00:00Z",
+    "Address":"312 Arnold Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0416078665,
+    "Longitude":-76.1439961011,
+    "Date":"2008-06-10T00:00:00Z",
+    "Address":"South McBride St. & Monroe St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0372030774,
+    "Longitude":-76.1008261109,
+    "Date":"2008-06-03T00:00:00Z",
+    "Address":"400 Brookford Pl",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.031272846,
+    "Longitude":-76.1610842994,
+    "Date":"2008-06-03T00:00:00Z",
+    "Address":"425 Rich St",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0268232567,
+    "Longitude":-76.1996875543,
+    "Date":"2008-06-02T00:00:00Z",
+    "Address":"Highridge Pl & Highridge Dr",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.031272846,
+    "Longitude":-76.1610842994,
+    "Date":"2008-05-30T00:00:00Z",
+    "Address":"425 Rich St",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0468557058,
+    "Longitude":-76.1759289508,
+    "Date":"2008-05-27T00:00:00Z",
+    "Address":"1225 West Fayette St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0361513872,
+    "Longitude":-76.1126494209,
+    "Date":"2008-05-23T00:00:00Z",
+    "Address":"543 Cumberland Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0361513872,
+    "Longitude":-76.1126494209,
+    "Date":"2008-05-23T00:00:00Z",
+    "Address":"543 Cumberland Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0382192306,
+    "Longitude":-76.0934440673,
+    "Date":"2008-05-20T00:00:00Z",
+    "Address":"Lockwood Rd & Kimber Rd",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.05033489,
+    "Longitude":-76.1768031047,
+    "Date":"2008-05-20T00:00:00Z",
+    "Address":"634 Richmond Ave",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0830899981,
+    "Longitude":-76.1491177642,
+    "Date":"2008-05-14T00:00:00Z",
+    "Address":"1559 LeMoyne Ave",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0569080116,
+    "Longitude":-76.1659633655,
+    "Date":"2008-05-09T00:00:00Z",
+    "Address":"500 Spencer St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0511975238,
+    "Longitude":-76.1038142545,
+    "Date":"2008-05-08T00:00:00Z",
+    "Address":"313 Seeley Rd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0561672998,
+    "Longitude":-76.1479994696,
+    "Date":"2008-05-06T00:00:00Z",
+    "Address":"200 Union Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0503579404,
+    "Longitude":-76.1129315122,
+    "Date":"2008-05-05T00:00:00Z",
+    "Address":"104 Croly St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0627765805,
+    "Longitude":-76.1034553762,
+    "Date":"2008-05-02T00:00:00Z",
+    "Address":"356 Nicholas Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0561672998,
+    "Longitude":-76.1479994696,
+    "Date":"2008-04-30T00:00:00Z",
+    "Address":"200 Union Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0577045576,
+    "Longitude":-76.1519338209,
+    "Date":"2008-04-25T00:00:00Z",
+    "Address":"206 Butternut St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.048149505,
+    "Longitude":-76.1136806662,
+    "Date":"2008-04-23T00:00:00Z",
+    "Address":"2100 East Fayette St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.030013641,
+    "Longitude":-76.1622548768,
+    "Date":"2008-04-22T00:00:00Z",
+    "Address":"Palmer Ave & Cheney St",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0467246147,
+    "Longitude":-76.1755723015,
+    "Date":"2008-04-18T00:00:00Z",
+    "Address":"1205 West Fayette St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0168866272,
+    "Longitude":-76.128916081,
+    "Date":"2008-04-18T00:00:00Z",
+    "Address":"1003 Jamesville Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0561672998,
+    "Longitude":-76.1479994696,
+    "Date":"2008-04-15T00:00:00Z",
+    "Address":"200 Union Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0542671226,
+    "Longitude":-76.121936451,
+    "Date":"2008-04-14T00:00:00Z",
+    "Address":"Burnet Ave & Teall Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0171998566,
+    "Longitude":-76.1262422186,
+    "Date":"2008-04-11T00:00:00Z",
+    "Address":"245 Holmes St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0486174015,
+    "Longitude":-76.1507613239,
+    "Date":"2008-04-10T00:00:00Z",
+    "Address":"200 East Fayette St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0210273413,
+    "Longitude":-76.154536021,
+    "Date":"2008-04-09T00:00:00Z",
+    "Address":"74-80 Elmhurst Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0171963425,
+    "Longitude":-76.12631128,
+    "Date":"2008-04-08T00:00:00Z",
+    "Address":"239 Holmes Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0486728835,
+    "Longitude":-76.1508045013,
+    "Date":"2008-04-07T00:00:00Z",
+    "Address":"East Fayette St & South Warren St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0474466263,
+    "Longitude":-76.1418803498,
+    "Date":"2008-04-04T00:00:00Z",
+    "Address":"711 East Genesee St",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0333725001,
+    "Longitude":-76.161237086,
+    "Date":"2008-04-01T00:00:00Z",
+    "Address":"Rich St & Bellevue Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0181263374,
+    "Longitude":-76.1587554391,
+    "Date":"2008-04-01T00:00:00Z",
+    "Address":"927-931 West LaFayette Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0172662008,
+    "Longitude":-76.1582923614,
+    "Date":"2008-03-31T00:00:00Z",
+    "Address":"133 Bertram Pl",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0311382419,
+    "Longitude":-76.1094430943,
+    "Date":"2008-03-30T00:00:00Z",
+    "Address":"1335 Broad St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0457273743,
+    "Longitude":-76.1760327988,
+    "Date":"2008-03-25T00:00:00Z",
+    "Address":"154 Nelson St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0694695934,
+    "Longitude":-76.1330479116,
+    "Date":"2008-03-24T00:00:00Z",
+    "Address":"Sedgewick Dr & Scoville Ave",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0247346816,
+    "Longitude":-76.1448284271,
+    "Date":"2008-03-22T00:00:00Z",
+    "Address":"2315 South Salina St",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0471462788,
+    "Longitude":-76.1168254504,
+    "Date":"2008-03-18T00:00:00Z",
+    "Address":"406 Lexington Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0535963973,
+    "Longitude":-76.1459787688,
+    "Date":"2008-03-17T00:00:00Z",
+    "Address":"James St & Townsend St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0672423285,
+    "Longitude":-76.1550772158,
+    "Date":"2008-03-17T00:00:00Z",
+    "Address":"1311 Park St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.055185504,
+    "Longitude":-76.13311233,
+    "Date":"2008-03-15T00:00:00Z",
+    "Address":"710 Hawley Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0606435186,
+    "Longitude":-76.15766189,
+    "Date":"2008-03-14T00:00:00Z",
+    "Address":"North Clinton St & Spencer St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0447689929,
+    "Longitude":-76.0875086577,
+    "Date":"2008-03-09T00:00:00Z",
+    "Address":"104 Beaumont Pl",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0210195116,
+    "Longitude":-76.1548016842,
+    "Date":"2008-03-08T00:00:00Z",
+    "Address":"84 Elmhurst Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0024791878,
+    "Longitude":-76.1401834957,
+    "Date":"2008-03-05T00:00:00Z",
+    "Address":"306/312 Seneca Dr",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0536706231,
+    "Longitude":-76.0933387544,
+    "Date":"2008-03-04T00:00:00Z",
+    "Address":"123 Polk St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.038573892,
+    "Longitude":-76.0842155559,
+    "Date":"2008-03-03T00:00:00Z",
+    "Address":"Hillsboro Pkwy & Lockwood Rd.",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0765811123,
+    "Longitude":-76.1622934824,
+    "Date":"2008-03-03T00:00:00Z",
+    "Address":"617 East Hiawatha Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0765811123,
+    "Longitude":-76.1622934824,
+    "Date":"2008-03-01T00:00:00Z",
+    "Address":"617 East Hiawatha Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0510931269,
+    "Longitude":-76.1342978716,
+    "Date":"2008-02-28T00:00:00Z",
+    "Address":"University Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0743157105,
+    "Longitude":-76.1100187361,
+    "Date":"2008-02-22T00:00:00Z",
+    "Address":"333 Norwood Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0420408886,
+    "Longitude":-76.106729775,
+    "Date":"2008-02-20T00:00:00Z",
+    "Address":"105/107 Bradford Pkwy",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0164385969,
+    "Longitude":-76.13454397,
+    "Date":"2008-02-17T00:00:00Z",
+    "Address":"602/700 Ivy Ring Rd",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0452209313,
+    "Longitude":-76.1342907399,
+    "Date":"2008-02-16T00:00:00Z",
+    "Address":"509 University Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0757582955,
+    "Longitude":-76.1057960815,
+    "Date":"2008-02-15T00:00:00Z",
+    "Address":"375 North Midler Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0787558264,
+    "Longitude":-76.1606161708,
+    "Date":"2008-02-14T00:00:00Z",
+    "Address":"4th North St & Hiawatha Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0670134924,
+    "Longitude":-76.1112802803,
+    "Date":"2008-02-13T00:00:00Z",
+    "Address":"164-170 Forest Hill Dr",
+    "Zip":13206
+  },
+  {
+    "Latitude":null,
+    "Longitude":null,
+    "Date":"2008-02-09T00:00:00Z",
+    "Address":"Morningside Reservoir",
+    "Zip":null
+  },
+  {
+    "Latitude":43.0747972174,
+    "Longitude":-76.1100561885,
+    "Date":"2008-02-08T00:00:00Z",
+    "Address":"353 Norwood Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0599470378,
+    "Longitude":-76.1543204599,
+    "Date":"2008-02-06T00:00:00Z",
+    "Address":"East Division St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0525963825,
+    "Longitude":-76.1302041094,
+    "Date":"2008-02-05T00:00:00Z",
+    "Address":"315 Elm St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0274881742,
+    "Longitude":-76.3450593447,
+    "Date":"2008-02-02T00:00:00Z",
+    "Address":"Daniluck Dr. & Satinwood Dr. Camillus NY",
+    "Zip":13031
+  },
+  {
+    "Latitude":43.0508351401,
+    "Longitude":-76.1474414805,
+    "Date":"2008-01-31T00:00:00Z",
+    "Address":"South State St",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.043301748,
+    "Longitude":-76.1727895927,
+    "Date":"2008-01-28T00:00:00Z",
+    "Address":"316-518 Geddes St. S. & Seymour St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0524702747,
+    "Longitude":-76.1301951393,
+    "Date":"2008-01-27T00:00:00Z",
+    "Address":"311 Elm St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0016684292,
+    "Longitude":-76.1428602776,
+    "Date":"2008-01-26T00:00:00Z",
+    "Address":"4710 South Salina St",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0236864201,
+    "Longitude":-76.1203848167,
+    "Date":"2008-01-24T00:00:00Z",
+    "Address":"527 Buckingham Ave",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0644609721,
+    "Longitude":-76.1954749563,
+    "Date":"2008-01-24T00:00:00Z",
+    "Address":"500 State Fair Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.06373369,
+    "Longitude":-76.112378653,
+    "Date":"2008-01-23T00:00:00Z",
+    "Address":"300 Stafford Ave",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.055434077,
+    "Longitude":-76.0850502104,
+    "Date":"2008-01-23T00:00:00Z",
+    "Address":"3057 East Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0492686274,
+    "Longitude":-76.1663082765,
+    "Date":"2008-01-23T00:00:00Z",
+    "Address":"500 Tracy St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.055434077,
+    "Longitude":-76.0850502104,
+    "Date":"2008-01-23T00:00:00Z",
+    "Address":"3057 East Erie Blvd",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0546110738,
+    "Longitude":-76.0942412622,
+    "Date":"2008-01-22T00:00:00Z",
+    "Address":"East Erie Blvd & Lime St",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0291498508,
+    "Longitude":-76.1740237445,
+    "Date":"2008-01-19T00:00:00Z",
+    "Address":"308 Gordon Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0674409363,
+    "Longitude":-76.1490002574,
+    "Date":"2008-01-14T00:00:00Z",
+    "Address":"206 Herbert St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0308656674,
+    "Longitude":-76.1883035314,
+    "Date":"2008-01-12T00:00:00Z",
+    "Address":"115 Austin Ave",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0418521785,
+    "Longitude":-76.1729771482,
+    "Date":"2008-01-09T00:00:00Z",
+    "Address":"Seymour St & Amy St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0536343908,
+    "Longitude":-76.1352478332,
+    "Date":"2008-01-08T00:00:00Z",
+    "Address":"428 Lodi St",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0244321353,
+    "Longitude":-76.2026787022,
+    "Date":"2008-01-07T00:00:00Z",
+    "Address":"116 Richard Rd",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0378473953,
+    "Longitude":-76.1636747417,
+    "Date":"2008-01-07T00:00:00Z",
+    "Address":"250 Holland St",
+    "Zip":13204
+  },
+  {
+    "Latitude":null,
+    "Longitude":null,
+    "Date":"2008-01-04T00:00:00Z",
+    "Address":"Morningside Reservoir",
+    "Zip":null
+  },
+  {
+    "Latitude":43.036837556,
+    "Longitude":-76.1705815786,
+    "Date":"2008-01-02T00:00:00Z",
+    "Address":"233  Fitch St",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.03843248,
+    "Longitude":-76.1314550701,
+    "Date":"2007-12-30T00:00:00Z",
+    "Address":"129 College Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.013942035,
+    "Longitude":-76.1706432325,
+    "Date":"2007-12-23T00:00:00Z",
+    "Address":"407 Mitchell Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0757454817,
+    "Longitude":-76.1071539063,
+    "Date":"2007-12-23T00:00:00Z",
+    "Address":"383 N. Edwards Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0286023766,
+    "Longitude":-76.1579153712,
+    "Date":"2007-12-22T00:00:00Z",
+    "Address":"Crescent Ave. & South Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0546015712,
+    "Longitude":-76.090639379,
+    "Date":"2007-12-21T00:00:00Z",
+    "Address":"480 Smith St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0205002794,
+    "Longitude":-76.1552439221,
+    "Date":"2007-12-21T00:00:00Z",
+    "Address":"Elmhurst Ave. & Hunt Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0771373418,
+    "Longitude":-76.1624338056,
+    "Date":"2007-12-18T00:00:00Z",
+    "Address":"617 E. Hiawatha Blvd",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0409663482,
+    "Longitude":-76.1310431433,
+    "Date":"2007-12-18T00:00:00Z",
+    "Address":"Waverly Ave. & Walnut Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0003768275,
+    "Longitude":-76.1589422339,
+    "Date":"2007-12-18T00:00:00Z",
+    "Address":"171 Hopper Road",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.027645344,
+    "Longitude":-76.1836130314,
+    "Date":"2007-12-15T00:00:00Z",
+    "Address":"122 Fairdale Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0486167731,
+    "Longitude":-76.1801026411,
+    "Date":"2007-12-14T00:00:00Z",
+    "Address":"Wilbur Ave & Tompkins St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0306954396,
+    "Longitude":-76.1088179887,
+    "Date":"2007-12-13T00:00:00Z",
+    "Address":"1342 Broad St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0597634445,
+    "Longitude":-76.1209919717,
+    "Date":"2007-12-10T00:00:00Z",
+    "Address":"200 Sunstruck Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0331273528,
+    "Longitude":-76.1881146189,
+    "Date":"2007-12-08T00:00:00Z",
+    "Address":"4748 Onondaga Rd.",
+    "Zip":13219
+  },
+  {
+    "Latitude":43.0025121558,
+    "Longitude":-76.1345191516,
+    "Date":"2007-12-07T00:00:00Z",
+    "Address":"450 E. Seneca Turnpike",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.013942035,
+    "Longitude":-76.1706432325,
+    "Date":"2007-12-06T00:00:00Z",
+    "Address":"407 Mitchell Av.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0612329864,
+    "Longitude":-76.1128604848,
+    "Date":"2007-12-05T00:00:00Z",
+    "Address":"210 Sunnycrest Rd.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0788917807,
+    "Longitude":-76.1415076356,
+    "Date":"2007-12-05T00:00:00Z",
+    "Address":"923 Wadsworth St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0455407124,
+    "Longitude":-76.1181273678,
+    "Date":"2007-12-05T00:00:00Z",
+    "Address":"Cambridge St. & E. Genesee St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0505451373,
+    "Longitude":-76.153542558,
+    "Date":"2007-12-04T00:00:00Z",
+    "Address":"W. Water St. & Clinton St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.047045791,
+    "Longitude":-76.1515018989,
+    "Date":"2007-11-30T00:00:00Z",
+    "Address":"E. Jefferson St. & Bank Alley",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0462411545,
+    "Longitude":-76.0871492719,
+    "Date":"2007-11-28T00:00:00Z",
+    "Address":"1462 Salt Springs Road",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0405293812,
+    "Longitude":-76.1366887051,
+    "Date":"2007-11-28T00:00:00Z",
+    "Address":"Waverly Ave. & S. Crouse Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0543833002,
+    "Longitude":-76.1465502054,
+    "Date":"2007-11-26T00:00:00Z",
+    "Address":"600 Willow St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0726821449,
+    "Longitude":-76.1254723617,
+    "Date":"2007-11-26T00:00:00Z",
+    "Address":"567 Grant Blvd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0391361754,
+    "Longitude":-76.1311167769,
+    "Date":"2007-11-22T00:00:00Z",
+    "Address":"123 College Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0838404856,
+    "Longitude":-76.1480978564,
+    "Date":"2007-11-19T00:00:00Z",
+    "Address":"Lemoyne Ave & Wadsworth St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0041169464,
+    "Longitude":-76.1571926436,
+    "Date":"2007-11-19T00:00:00Z",
+    "Address":"Englewood Ave. & Ames Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0576024375,
+    "Longitude":-76.089257026,
+    "Date":"2007-11-18T00:00:00Z",
+    "Address":"2937 Erie Blvd East",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0542906314,
+    "Longitude":-76.1445560706,
+    "Date":"2007-11-18T00:00:00Z",
+    "Address":"James St. & McBride St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0569165347,
+    "Longitude":-76.1514266711,
+    "Date":"2007-11-15T00:00:00Z",
+    "Address":"610 N. State St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0538847987,
+    "Longitude":-76.1812221419,
+    "Date":"2007-11-14T00:00:00Z",
+    "Address":"275 State Fair Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0527364136,
+    "Longitude":-76.0940740338,
+    "Date":"2007-11-13T00:00:00Z",
+    "Address":"Lime St. & Northway St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0482536455,
+    "Longitude":-76.1125531185,
+    "Date":"2007-11-09T00:00:00Z",
+    "Address":"2209 E. Fayette St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0609865946,
+    "Longitude":-76.0926184251,
+    "Date":"2007-11-07T00:00:00Z",
+    "Address":"Cloverridge Dr. & Burnet Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0527652955,
+    "Longitude":-76.0942943581,
+    "Date":"2007-11-07T00:00:00Z",
+    "Address":"775 Northway Ave",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0137357774,
+    "Longitude":-76.1262787411,
+    "Date":"2007-11-05T00:00:00Z",
+    "Address":"Jamesville Ave. & Jean Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0551023909,
+    "Longitude":-76.1799618774,
+    "Date":"2007-11-05T00:00:00Z",
+    "Address":"312 State Fair Blvd",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0495370032,
+    "Longitude":-76.1216276645,
+    "Date":"2007-11-02T00:00:00Z",
+    "Address":"Erie Blvd & Teall Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0495370032,
+    "Longitude":-76.1216276645,
+    "Date":"2007-10-31T00:00:00Z",
+    "Address":"Erie Blvd & Teall Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0297292483,
+    "Longitude":-76.1451779454,
+    "Date":"2007-10-24T00:00:00Z",
+    "Address":"Woodland Ave. & S. State St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0495370032,
+    "Longitude":-76.1216276645,
+    "Date":"2007-10-23T00:00:00Z",
+    "Address":"Erie Blvd & Teall Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0495370032,
+    "Longitude":-76.1216276645,
+    "Date":"2007-10-15T00:00:00Z",
+    "Address":"Erie Blvd & Teall Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0500653803,
+    "Longitude":-76.1263508429,
+    "Date":"2007-10-11T00:00:00Z",
+    "Address":"1502 Erie Blvd East",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0811386456,
+    "Longitude":-76.1589289576,
+    "Date":"2007-10-11T00:00:00Z",
+    "Address":"935 Hiawatha Blvd East.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0495111348,
+    "Longitude":-76.1473999569,
+    "Date":"2007-10-09T00:00:00Z",
+    "Address":"Washington St. & S. State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0510138487,
+    "Longitude":-76.130986198,
+    "Date":"2007-10-05T00:00:00Z",
+    "Address":"790 Canal St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0478762887,
+    "Longitude":-76.1945215219,
+    "Date":"2007-10-04T00:00:00Z",
+    "Address":"407 Myrtle Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0478762887,
+    "Longitude":-76.1945215219,
+    "Date":"2007-10-03T00:00:00Z",
+    "Address":"407 Myrtle Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0453685897,
+    "Longitude":-76.1056455657,
+    "Date":"2007-09-27T00:00:00Z",
+    "Address":"136 East Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0544298981,
+    "Longitude":-76.1255479668,
+    "Date":"2007-09-24T00:00:00Z",
+    "Address":"350 Vine St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0532748657,
+    "Longitude":-76.125548654,
+    "Date":"2007-09-21T00:00:00Z",
+    "Address":"Burnet Ave. & Vine St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0534707463,
+    "Longitude":-76.138052596,
+    "Date":"2007-09-19T00:00:00Z",
+    "Address":"415-417 Hawley Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0539753503,
+    "Longitude":-76.1308256506,
+    "Date":"2007-09-18T00:00:00Z",
+    "Address":"337 Elm St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.06649084,
+    "Longitude":-76.1129584553,
+    "Date":"2007-09-18T00:00:00Z",
+    "Address":"172 Stafford Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0116984066,
+    "Longitude":-76.1591908957,
+    "Date":"2007-09-17T00:00:00Z",
+    "Address":"151 Marvin Rd.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0540927129,
+    "Longitude":-76.142173116,
+    "Date":"2007-09-15T00:00:00Z",
+    "Address":"Wayne St. & Lodi St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0539783499,
+    "Longitude":-76.1809414999,
+    "Date":"2007-09-14T00:00:00Z",
+    "Address":"212 State Fair Blvd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0478486719,
+    "Longitude":-76.1515662607,
+    "Date":"2007-09-14T00:00:00Z",
+    "Address":"250 Bank Alley",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0486454236,
+    "Longitude":-76.1541099372,
+    "Date":"2007-09-13T00:00:00Z",
+    "Address":"227 W. Fayette St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.074481149,
+    "Longitude":-76.1117874863,
+    "Date":"2007-09-12T00:00:00Z",
+    "Address":"381 Fobes Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0506072814,
+    "Longitude":-76.1096629222,
+    "Date":"2007-09-10T00:00:00Z",
+    "Address":"100 Genesee Park Dr.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0478486719,
+    "Longitude":-76.1515662607,
+    "Date":"2007-09-06T00:00:00Z",
+    "Address":"250 Bank Alley",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.03946573,
+    "Longitude":-76.1360474266,
+    "Date":"2007-09-05T00:00:00Z",
+    "Address":"225 University Place",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0588506202,
+    "Longitude":-76.1988739644,
+    "Date":"2007-09-02T00:00:00Z",
+    "Address":"1224 Avery Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0576726714,
+    "Longitude":-76.190609328,
+    "Date":"2007-08-30T00:00:00Z",
+    "Address":"850 Emerson Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0495966293,
+    "Longitude":-76.1521891915,
+    "Date":"2007-08-29T00:00:00Z",
+    "Address":"N. Salina St. & Washington St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0178945138,
+    "Longitude":-76.1594744809,
+    "Date":"2007-08-28T00:00:00Z",
+    "Address":"943 W. Lafayette Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0617414735,
+    "Longitude":-76.1540859921,
+    "Date":"2007-08-25T00:00:00Z",
+    "Address":"N Salina St. & Catawba St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0495966293,
+    "Longitude":-76.1521891915,
+    "Date":"2007-08-24T00:00:00Z",
+    "Address":"S. Salina St. & Washington St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0247917951,
+    "Longitude":-76.1698436599,
+    "Date":"2007-08-21T00:00:00Z",
+    "Address":"622 Roberts Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0505352743,
+    "Longitude":-76.1521857297,
+    "Date":"2007-08-14T00:00:00Z",
+    "Address":"W. Water St. & S. Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0519719364,
+    "Longitude":-76.1366138169,
+    "Date":"2007-08-13T00:00:00Z",
+    "Address":"548 Burnet Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.049628831,
+    "Longitude":-76.1953218051,
+    "Date":"2007-08-11T00:00:00Z",
+    "Address":"Myrtle Ave. & W. Genesee St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.051279959,
+    "Longitude":-76.1535256384,
+    "Date":"2007-08-06T00:00:00Z",
+    "Address":"W. Genesee St. & N. Clinton St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.051279959,
+    "Longitude":-76.1535256384,
+    "Date":"2007-08-06T00:00:00Z",
+    "Address":"W. Genesee St. & N. Clinton St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0478578367,
+    "Longitude":-76.1521617405,
+    "Date":"2007-08-02T00:00:00Z",
+    "Address":"351 S. Salina St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0512852711,
+    "Longitude":-76.119598935,
+    "Date":"2007-07-31T00:00:00Z",
+    "Address":"114 Lynch St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0426362743,
+    "Longitude":-76.1405062856,
+    "Date":"2007-07-27T00:00:00Z",
+    "Address":"750 East Adams St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0589259505,
+    "Longitude":-76.1966933873,
+    "Date":"2007-07-26T00:00:00Z",
+    "Address":"1204 Willis Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0538503255,
+    "Longitude":-76.1297170514,
+    "Date":"2007-07-24T00:00:00Z",
+    "Address":"334 Elm St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0577207838,
+    "Longitude":-76.1520468674,
+    "Date":"2007-07-23T00:00:00Z",
+    "Address":"Butternut St. & N. Salina St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0344762003,
+    "Longitude":-76.1470854538,
+    "Date":"2007-07-20T00:00:00Z",
+    "Address":"S. State St. & Alvord Terrace.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.051279959,
+    "Longitude":-76.1535256384,
+    "Date":"2007-07-18T00:00:00Z",
+    "Address":"W. Genesee St. & Clinton St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0362783508,
+    "Longitude":-76.1297673486,
+    "Date":"2007-07-17T00:00:00Z",
+    "Address":"Comstock Ave. & Euclid Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0529625967,
+    "Longitude":-76.1545412621,
+    "Date":"2007-07-16T00:00:00Z",
+    "Address":"214 N. Franklin St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0020135773,
+    "Longitude":-76.1294090599,
+    "Date":"2007-07-15T00:00:00Z",
+    "Address":"E Seneca Turnpike & Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0033859667,
+    "Longitude":-76.156636225,
+    "Date":"2007-07-09T00:00:00Z",
+    "Address":"235 Kimber Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0714096334,
+    "Longitude":-76.1174596975,
+    "Date":"2007-07-05T00:00:00Z",
+    "Address":"223 Village Dr.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0610559089,
+    "Longitude":-76.1975797789,
+    "Date":"2007-07-02T00:00:00Z",
+    "Address":"101 Kane Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0461363232,
+    "Longitude":-76.0869933854,
+    "Date":"2007-06-28T00:00:00Z",
+    "Address":"1468 Salt Springs Road",
+    "Zip":13214
+  },
+  {
+    "Latitude":43.0050351075,
+    "Longitude":-76.1426134292,
+    "Date":"2007-06-28T00:00:00Z",
+    "Address":"4227 S. Salina St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0609135898,
+    "Longitude":-76.1977725712,
+    "Date":"2007-06-27T00:00:00Z",
+    "Address":"1350 Willis Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0609135898,
+    "Longitude":-76.1977725712,
+    "Date":"2007-06-25T00:00:00Z",
+    "Address":"1324 Willis Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0392290811,
+    "Longitude":-76.117622047,
+    "Date":"2007-06-23T00:00:00Z",
+    "Address":"137 Clarke St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0694191264,
+    "Longitude":-76.0939964112,
+    "Date":"2007-06-22T00:00:00Z",
+    "Address":"James St. & Ridgewood Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.046821382,
+    "Longitude":-76.1351982267,
+    "Date":"2007-06-22T00:00:00Z",
+    "Address":"1060 E. Genesee St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0505352743,
+    "Longitude":-76.1521857297,
+    "Date":"2007-06-21T00:00:00Z",
+    "Address":"S. Salina St. & Water St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0364836435,
+    "Longitude":-76.1256637045,
+    "Date":"2007-06-21T00:00:00Z",
+    "Address":"Sumner Ave. & Euclid Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0622333115,
+    "Longitude":-76.1213155935,
+    "Date":"2007-06-20T00:00:00Z",
+    "Address":"107 Mariposa St.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0473683004,
+    "Longitude":-76.1384957297,
+    "Date":"2007-06-20T00:00:00Z",
+    "Address":"817 E. Genesee St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.042730302,
+    "Longitude":-76.1439747966,
+    "Date":"2007-06-19T00:00:00Z",
+    "Address":"Adams St. & S. McBride St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0228692636,
+    "Longitude":-76.2001159629,
+    "Date":"2007-06-18T00:00:00Z",
+    "Address":"316 Broadview Road",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0506822525,
+    "Longitude":-76.1679271486,
+    "Date":"2007-06-15T00:00:00Z",
+    "Address":"423 Wilkinson St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0483481827,
+    "Longitude":-76.1707053264,
+    "Date":"2007-06-14T00:00:00Z",
+    "Address":"110 N. Geddes St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0523600648,
+    "Longitude":-76.1312266775,
+    "Date":"2007-06-14T00:00:00Z",
+    "Address":"723 Burnet Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0523600648,
+    "Longitude":-76.1312266775,
+    "Date":"2007-06-13T00:00:00Z",
+    "Address":"723 Burnet Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0362228214,
+    "Longitude":-76.1450803124,
+    "Date":"2007-06-12T00:00:00Z",
+    "Address":"351 Oakwood Ave.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0391361754,
+    "Longitude":-76.1311167769,
+    "Date":"2007-06-12T00:00:00Z",
+    "Address":"108 College Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0035398354,
+    "Longitude":-76.1442070608,
+    "Date":"2007-06-11T00:00:00Z",
+    "Address":"201 Crippen Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.003511126,
+    "Longitude":-76.1447885849,
+    "Date":"2007-06-10T00:00:00Z",
+    "Address":"219 Crippen Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0471124443,
+    "Longitude":-76.1524723212,
+    "Date":"2007-06-09T00:00:00Z",
+    "Address":"114 W. Jefferson St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.061474926,
+    "Longitude":-76.1134696197,
+    "Date":"2007-06-07T00:00:00Z",
+    "Address":"Sunnycrest Road & Hickok Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0441352372,
+    "Longitude":-76.1343171348,
+    "Date":"2007-06-02T00:00:00Z",
+    "Address":"601 University Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0360786079,
+    "Longitude":-76.3152532367,
+    "Date":"2007-06-01T00:00:00Z",
+    "Address":"250 W. Genesee St.",
+    "Zip":13031
+  },
+  {
+    "Latitude":43.0230350577,
+    "Longitude":-76.1957206254,
+    "Date":"2007-06-01T00:00:00Z",
+    "Address":"107 Alton St.",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0194232383,
+    "Longitude":-76.1739469226,
+    "Date":"2007-06-01T00:00:00Z",
+    "Address":"Glenwood Ave. & S. Geddes St.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0695247728,
+    "Longitude":-76.1045144652,
+    "Date":"2007-05-31T00:00:00Z",
+    "Address":"117 Rigi Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0264714413,
+    "Longitude":-76.1203315318,
+    "Date":"2007-05-29T00:00:00Z",
+    "Address":"441 Buckingham Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0568050616,
+    "Longitude":-76.1680240196,
+    "Date":"2007-05-24T00:00:00Z",
+    "Address":"551 Spencer St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0502185088,
+    "Longitude":-76.1596407435,
+    "Date":"2007-05-23T00:00:00Z",
+    "Address":"400 Erie Blvd West",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0357367032,
+    "Longitude":-76.1101905733,
+    "Date":"2007-05-23T00:00:00Z",
+    "Address":"1036 Meadowbrook Dr.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0656082493,
+    "Longitude":-76.1478406144,
+    "Date":"2007-05-21T00:00:00Z",
+    "Address":"405 Carbon St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.052371828,
+    "Longitude":-76.1535533915,
+    "Date":"2007-05-18T00:00:00Z",
+    "Address":"223 N. Clinton St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0421196254,
+    "Longitude":-76.1004259137,
+    "Date":"2007-05-17T00:00:00Z",
+    "Address":"101 Hurlburt Rd.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0533331026,
+    "Longitude":-76.152942698,
+    "Date":"2007-05-15T00:00:00Z",
+    "Address":"120 Herald Pl.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0028128818,
+    "Longitude":-76.1417282787,
+    "Date":"2007-05-08T00:00:00Z",
+    "Address":"125 Roney Road",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0407889126,
+    "Longitude":-76.1560816765,
+    "Date":"2007-05-07T00:00:00Z",
+    "Address":"385 W. Onondaga St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.013487598,
+    "Longitude":-76.126829941,
+    "Date":"2007-05-06T00:00:00Z",
+    "Address":"134 Jean Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0326810574,
+    "Longitude":-76.1110442895,
+    "Date":"2007-05-02T00:00:00Z",
+    "Address":"908 Meadowbrook Dr.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0429431136,
+    "Longitude":-76.1837486209,
+    "Date":"2007-05-01T00:00:00Z",
+    "Address":"Burnet Park Ice Rink",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0607380924,
+    "Longitude":-76.1976488618,
+    "Date":"2007-04-27T00:00:00Z",
+    "Address":"1320 Willis Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0022239233,
+    "Longitude":-76.1293761928,
+    "Date":"2007-04-27T00:00:00Z",
+    "Address":"971 E. Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0525090512,
+    "Longitude":-76.147647627,
+    "Date":"2007-04-27T00:00:00Z",
+    "Address":"E. James St. & Burns Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0504239868,
+    "Longitude":-76.1276085503,
+    "Date":"2007-04-24T00:00:00Z",
+    "Address":"Erie Blvd. East & S. Beech St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.066320842,
+    "Longitude":-76.1620469811,
+    "Date":"2007-04-22T00:00:00Z",
+    "Address":"Sunset Ave & Turtle St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0036640728,
+    "Longitude":-76.1312076139,
+    "Date":"2007-04-14T00:00:00Z",
+    "Address":"930 E. Brighton Ave.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0659991631,
+    "Longitude":-76.1616023358,
+    "Date":"2007-04-10T00:00:00Z",
+    "Address":"320 Sunset Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0834535973,
+    "Longitude":-76.1484691071,
+    "Date":"2007-04-10T00:00:00Z",
+    "Address":"Lemoyne Ave",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0562192811,
+    "Longitude":-76.1149337309,
+    "Date":"2007-04-08T00:00:00Z",
+    "Address":"Gale Ave. & Burnet Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.063351771,
+    "Longitude":-76.1260797156,
+    "Date":"2007-04-02T00:00:00Z",
+    "Address":"Wilson St. & James St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0562192811,
+    "Longitude":-76.1149337309,
+    "Date":"2007-03-30T00:00:00Z",
+    "Address":"Gale Ave. & Burnet Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0226152652,
+    "Longitude":-76.1368738253,
+    "Date":"2007-03-29T00:00:00Z",
+    "Address":"Moore Ave. & Penta Dr.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0679047669,
+    "Longitude":-76.1253782382,
+    "Date":"2007-03-28T00:00:00Z",
+    "Address":"Dorchester Rd. & Rugby Rd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0678957514,
+    "Longitude":-76.1253253722,
+    "Date":"2007-03-26T00:00:00Z",
+    "Address":"102 Dorchester Ave.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.060661038,
+    "Longitude":-76.1978718129,
+    "Date":"2007-03-26T00:00:00Z",
+    "Address":"1320 Willis Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0690236071,
+    "Longitude":-76.091974704,
+    "Date":"2007-03-22T00:00:00Z",
+    "Address":"East James St. & Burns Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0255201128,
+    "Longitude":-76.1333339647,
+    "Date":"2007-03-20T00:00:00Z",
+    "Address":"115 Hughes Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0423653357,
+    "Longitude":-76.1532256893,
+    "Date":"2007-03-17T00:00:00Z",
+    "Address":"213 W. Adams St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0542807679,
+    "Longitude":-76.1154949856,
+    "Date":"2007-03-17T00:00:00Z",
+    "Address":"330 Peat St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":42.9889541491,
+    "Longitude":-76.1366516699,
+    "Date":"2007-03-16T00:00:00Z",
+    "Address":"301 Maplewood Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0268853302,
+    "Longitude":-76.1808093318,
+    "Date":"2007-03-16T00:00:00Z",
+    "Address":"Argonne Dr. & Reed Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0761890217,
+    "Longitude":-76.1543689792,
+    "Date":"2007-03-09T00:00:00Z",
+    "Address":"950 Turtle St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0572638431,
+    "Longitude":-76.1721067586,
+    "Date":"2007-03-08T00:00:00Z",
+    "Address":"Giminski St. & Spencer St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0401672535,
+    "Longitude":-76.1531285523,
+    "Date":"2007-03-07T00:00:00Z",
+    "Address":"Oneida St. & Temple St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0572638431,
+    "Longitude":-76.1721067586,
+    "Date":"2007-03-07T00:00:00Z",
+    "Address":"Spencer St. & Giminski Dr.",
+    "Zip":13204
+  },
+  {
+    "Latitude":42.996219086,
+    "Longitude":-76.1401142425,
+    "Date":"2007-03-07T00:00:00Z",
+    "Address":"207 Weymouth Rd.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0685961984,
+    "Longitude":-76.1621045334,
+    "Date":"2007-03-06T00:00:00Z",
+    "Address":"N. Salina St. & Bear St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0298820897,
+    "Longitude":-76.1892376215,
+    "Date":"2007-03-04T00:00:00Z",
+    "Address":"151 Sunhill Terrace",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0549438701,
+    "Longitude":-76.1705770796,
+    "Date":"2007-03-04T00:00:00Z",
+    "Address":"609 N Geddes St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0532194577,
+    "Longitude":-76.1767824761,
+    "Date":"2007-03-03T00:00:00Z",
+    "Address":"1230 W. Genesee St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.049288557,
+    "Longitude":-76.1752640895,
+    "Date":"2007-03-01T00:00:00Z",
+    "Address":"125 Lakeview Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0750596732,
+    "Longitude":-76.1553131419,
+    "Date":"2007-03-01T00:00:00Z",
+    "Address":"Turtle St. & Grant Blvd.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0729368968,
+    "Longitude":-76.1138069119,
+    "Date":"2007-02-27T00:00:00Z",
+    "Address":"Cowie Ave. & North Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0230711066,
+    "Longitude":-76.1997948432,
+    "Date":"2007-02-24T00:00:00Z",
+    "Address":"315 Broadview Dr.",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0321012268,
+    "Longitude":-76.158863015,
+    "Date":"2007-02-23T00:00:00Z",
+    "Address":"686 South Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.036244069,
+    "Longitude":-76.1617474173,
+    "Date":"2007-02-23T00:00:00Z",
+    "Address":"150 Rich St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0232980557,
+    "Longitude":-76.2001739829,
+    "Date":"2007-02-21T00:00:00Z",
+    "Address":"312 Broadview Dr.",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0358014166,
+    "Longitude":-76.1615514972,
+    "Date":"2007-02-20T00:00:00Z",
+    "Address":"Rich St. & Tallman St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0361591748,
+    "Longitude":-76.1455187379,
+    "Date":"2007-02-20T00:00:00Z",
+    "Address":"358 Oakwood Ave.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.061754934,
+    "Longitude":-76.1057984248,
+    "Date":"2007-02-18T00:00:00Z",
+    "Address":"404 S. Edwards Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":42.986562109,
+    "Longitude":-76.1379789042,
+    "Date":"2007-02-18T00:00:00Z",
+    "Address":"317 Parrish Lane",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0650140644,
+    "Longitude":-76.1226951659,
+    "Date":"2007-02-17T00:00:00Z",
+    "Address":"James St. & Teall Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0530377589,
+    "Longitude":-76.1302355063,
+    "Date":"2007-02-17T00:00:00Z",
+    "Address":"329 Elm St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0284835857,
+    "Longitude":-76.1598324744,
+    "Date":"2007-02-17T00:00:00Z",
+    "Address":"207 Crescent Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0243968577,
+    "Longitude":-76.1497551693,
+    "Date":"2007-02-17T00:00:00Z",
+    "Address":"427 W. Colvin St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0728348313,
+    "Longitude":-76.1265381399,
+    "Date":"2007-02-15T00:00:00Z",
+    "Address":"707 Grant Blvd.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0024535403,
+    "Longitude":-76.1426521467,
+    "Date":"2007-02-15T00:00:00Z",
+    "Address":"106-108 Roney Lane",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0524759923,
+    "Longitude":-76.1300456875,
+    "Date":"2007-02-13T00:00:00Z",
+    "Address":"310 Elm St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0405822958,
+    "Longitude":-76.1364094929,
+    "Date":"2007-02-13T00:00:00Z",
+    "Address":"111 Waverly Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0320281457,
+    "Longitude":-76.1129761553,
+    "Date":"2007-02-13T00:00:00Z",
+    "Address":"815-817 Meadowbrook Dr.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0699872225,
+    "Longitude":-76.111949444,
+    "Date":"2007-02-12T00:00:00Z",
+    "Address":"221 Arnett Av.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0482179795,
+    "Longitude":-76.1147684564,
+    "Date":"2007-02-12T00:00:00Z",
+    "Address":"E. Fayette St  & Westmoreland Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0415838098,
+    "Longitude":-76.1582401848,
+    "Date":"2007-02-12T00:00:00Z",
+    "Address":"125 Shonnard St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.050659002,
+    "Longitude":-76.1320129986,
+    "Date":"2007-02-12T00:00:00Z",
+    "Address":"Walnut Ave. & Erie Blvd.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0212691795,
+    "Longitude":-76.132650665,
+    "Date":"2007-02-12T00:00:00Z",
+    "Address":"204 Vincent Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0423887583,
+    "Longitude":-76.1540256206,
+    "Date":"2007-02-11T00:00:00Z",
+    "Address":"200 Oneida St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0492241923,
+    "Longitude":-76.1662350064,
+    "Date":"2007-02-09T00:00:00Z",
+    "Address":"Tracy St. & VanRensselaer",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.078220513,
+    "Longitude":-76.1464955249,
+    "Date":"2007-02-09T00:00:00Z",
+    "Address":"1500 Court St",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0744601629,
+    "Longitude":-76.1100299725,
+    "Date":"2007-02-08T00:00:00Z",
+    "Address":"339 Norwood Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0176493967,
+    "Longitude":-76.1295799655,
+    "Date":"2007-02-07T00:00:00Z",
+    "Address":"945 Jamesville Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0133593187,
+    "Longitude":-76.1417311916,
+    "Date":"2007-02-07T00:00:00Z",
+    "Address":"Matson St. & South Salina St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0486818902,
+    "Longitude":-76.1514805777,
+    "Date":"2007-02-07T00:00:00Z",
+    "Address":"E Fayette St. & Bank Alley",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0486818902,
+    "Longitude":-76.1514805777,
+    "Date":"2007-02-06T00:00:00Z",
+    "Address":"E Fayette St. & Bank Alley",
+    "Zip":null
+  },
+  {
+    "Latitude":43.0424564241,
+    "Longitude":-76.1537942795,
+    "Date":"2007-02-06T00:00:00Z",
+    "Address":"250  West Adams St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0393526926,
+    "Longitude":-76.1355297766,
+    "Date":"2007-02-06T00:00:00Z",
+    "Address":"250 University Pl.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0505160537,
+    "Longitude":-76.1038346452,
+    "Date":"2007-02-06T00:00:00Z",
+    "Address":"Seeley Ave & Mountainview Ave.",
+    "Zip":13224
+  },
+  {
+    "Latitude":43.0348062396,
+    "Longitude":-76.1470355788,
+    "Date":"2007-02-05T00:00:00Z",
+    "Address":"1319 South State St.",
+    "Zip":13202
+  },
+  {
+    "Latitude":43.0603528614,
+    "Longitude":-76.1967145492,
+    "Date":"2007-02-05T00:00:00Z",
+    "Address":"1025 Emerson Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0289789602,
+    "Longitude":-76.1955640901,
+    "Date":"2007-02-05T00:00:00Z",
+    "Address":"116 Huntington Rd.",
+    "Zip":13219
+  },
+  {
+    "Latitude":43.0622700552,
+    "Longitude":-76.1569816481,
+    "Date":"2007-02-04T00:00:00Z",
+    "Address":"208 Basin St.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0653605513,
+    "Longitude":-76.1634120017,
+    "Date":"2007-02-04T00:00:00Z",
+    "Address":"1068 South Clinton St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0117803254,
+    "Longitude":-76.1583945158,
+    "Date":"2007-02-03T00:00:00Z",
+    "Address":"121 Marvin Rd.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.050169747,
+    "Longitude":-76.1693285021,
+    "Date":"2007-02-03T00:00:00Z",
+    "Address":"240 Richmond Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0306436352,
+    "Longitude":-76.1127272792,
+    "Date":"2007-02-03T00:00:00Z",
+    "Address":"801 Cumberland Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":42.9919214585,
+    "Longitude":-76.1372989023,
+    "Date":"2007-02-03T00:00:00Z",
+    "Address":"Windmere Drive & Sunrise Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0792213902,
+    "Longitude":-76.155642697,
+    "Date":"2007-02-02T00:00:00Z",
+    "Address":"1131 LeMoyne Ave",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0594332495,
+    "Longitude":-76.156791344,
+    "Date":"2007-02-02T00:00:00Z",
+    "Address":"West Division St. & North Clinton St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.055188644,
+    "Longitude":-76.1453555541,
+    "Date":"2007-02-02T00:00:00Z",
+    "Address":"511 N McBride St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0356231284,
+    "Longitude":-76.1798091885,
+    "Date":"2007-02-02T00:00:00Z",
+    "Address":"613 Rowland St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0594332495,
+    "Longitude":-76.156791344,
+    "Date":"2007-02-01T00:00:00Z",
+    "Address":"West Division St. & North Clinton St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0426362743,
+    "Longitude":-76.1405062856,
+    "Date":"2007-02-01T00:00:00Z",
+    "Address":"E Adams St & Sarah Logan Drive",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.027143909,
+    "Longitude":-76.1981487373,
+    "Date":"2007-01-31T00:00:00Z",
+    "Address":"122 Highbridge Drive",
+    "Zip":13215
+  },
+  {
+    "Latitude":43.0108492909,
+    "Longitude":-76.1700634063,
+    "Date":"2007-01-29T00:00:00Z",
+    "Address":"200 Mitchell Ave.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.0820274696,
+    "Longitude":-76.1582833602,
+    "Date":"2007-01-28T00:00:00Z",
+    "Address":"1050 Hiawatha Blvd East.",
+    "Zip":13208
+  },
+  {
+    "Latitude":43.0028618212,
+    "Longitude":-76.1336310808,
+    "Date":"2007-01-27T00:00:00Z",
+    "Address":"505 East Seneca Turnpike",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0481935125,
+    "Longitude":-76.1126605865,
+    "Date":"2007-01-27T00:00:00Z",
+    "Address":"East Fayette St. & Croly St.",
+    "Zip":13224
+  },
+  {
+    "Latitude":42.9948712976,
+    "Longitude":-76.1368497105,
+    "Date":"2007-01-26T00:00:00Z",
+    "Address":"170 Thurlow Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0534398292,
+    "Longitude":-76.1276576762,
+    "Date":"2007-01-26T00:00:00Z",
+    "Address":"325 North Beech St.",
+    "Zip":13203
+  },
+  {
+    "Latitude":43.0670483624,
+    "Longitude":-76.0918516455,
+    "Date":"2007-01-25T00:00:00Z",
+    "Address":"Northcliff Ave. & Burns Ave.",
+    "Zip":13206
+  },
+  {
+    "Latitude":43.0080160738,
+    "Longitude":-76.1427555479,
+    "Date":"2007-01-24T00:00:00Z",
+    "Address":"Anderson Ave. & South Salina St.",
+    "Zip":13205
+  },
+  {
+    "Latitude":42.9942329674,
+    "Longitude":-76.1376324889,
+    "Date":"2007-01-24T00:00:00Z",
+    "Address":"317 Sunrise Dr.",
+    "Zip":13205
+  },
+  {
+    "Latitude":43.0426362743,
+    "Longitude":-76.1405062856,
+    "Date":"2007-01-22T00:00:00Z",
+    "Address":"750 East Adams St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0426506896,
+    "Longitude":-76.1344260092,
+    "Date":"2007-01-22T00:00:00Z",
+    "Address":"Adams St. & University Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0473136117,
+    "Longitude":-76.1604025421,
+    "Date":"2007-01-22T00:00:00Z",
+    "Address":"Marcellus St. & Wyoming St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0576221294,
+    "Longitude":-76.190742181,
+    "Date":"2007-01-20T00:00:00Z",
+    "Address":"821 Emerson Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0441504298,
+    "Longitude":-76.1371950614,
+    "Date":"2007-01-20T00:00:00Z",
+    "Address":"850 Harrison St.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0231285182,
+    "Longitude":-76.1368375022,
+    "Date":"2007-01-19T00:00:00Z",
+    "Address":"245 Moore Ave.",
+    "Zip":13210
+  },
+  {
+    "Latitude":43.0529326929,
+    "Longitude":-76.1841924645,
+    "Date":"2007-01-17T00:00:00Z",
+    "Address":"1850  West Fayette St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0117639425,
+    "Longitude":-76.1585537924,
+    "Date":"2007-01-16T00:00:00Z",
+    "Address":"127 Marvin Rd.",
+    "Zip":13207
+  },
+  {
+    "Latitude":43.03429401,
+    "Longitude":-76.1601753563,
+    "Date":"2007-01-11T00:00:00Z",
+    "Address":"166 Hudson St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0404098498,
+    "Longitude":-76.1648217282,
+    "Date":"2007-01-10T00:00:00Z",
+    "Address":"210-212 Merriman Ave.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0521651363,
+    "Longitude":-76.183606577,
+    "Date":"2007-01-08T00:00:00Z",
+    "Address":"1801  West Fayette St.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0612673791,
+    "Longitude":-76.1973096763,
+    "Date":"2007-01-05T00:00:00Z",
+    "Address":"101 Kane Rd.",
+    "Zip":13204
+  },
+  {
+    "Latitude":43.0599359337,
+    "Longitude":-76.1966940154,
+    "Date":"2007-01-05T00:00:00Z",
+    "Address":"Erie Blvd West. & Emerson Ave.",
+    "Zip":13204
+  }
+]
